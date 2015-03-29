@@ -1,0 +1,265 @@
+
+
+span.flair {
+    margin-right: 3px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url("//e.thumbs.redditmedia.com/usYK4RbC2DE-BTyX.png");
+    vertical-align: middle;
+    border: none;
+    padding: 0;
+    background-color: transparent
+}
+
+
+
+.flair-NCAAAirForceFalcons {
+    background-position: 0 0
+}
+
+.flair-NCAAAlabamaHuntsvilleChargers {
+    background-position: -20px 0
+}
+
+.flair-NCAAAlaskaAnchorageSeaWolves {
+    background-position: -40px 0
+}
+
+.flair-NCAAAlaskaNanooks {
+    background-position: -60px 0
+}
+
+.flair-NCAAAmericanInternationalYellowJackets {
+    background-position: -80px 0
+}
+
+.flair-NCAABemidjiStateBeavers {
+    background-position: -100px 0
+}
+
+.flair-NCAABentleyFalcons {
+    background-position: -120px 0
+}
+
+.flair-NCAABostonCollegeEagles {
+    background-position: -140px 0
+}
+
+.flair-NCAABostonUniversityTerriers {
+    background-position: -160px 0
+}
+
+.flair-NCAABowlingGreenFalcons {
+    background-position: -180px 0
+}
+
+.flair-NCAABrownBears {
+    background-position: 0 -20px
+}
+
+.flair-NCAACanisiusGoldenGriffins {
+    background-position: -20px -20px
+}
+
+.flair-NCAAClarksonGoldenKnights {
+    background-position: -40px -20px
+}
+
+.flair-NCAAColgateRaiders {
+    background-position: -60px -20px
+}
+
+.flair-NCAAColoradoCollegeTigers {
+    background-position: -80px -20px
+}
+
+.flair-NCAACornellBigRed {
+    background-position: -100px -20px
+}
+
+.flair-NCAADartmouthBigGreen {
+    background-position: -120px -20px
+}
+
+.flair-NCAADenverPioneers {
+    background-position: -140px -20px
+}
+
+.flair-NCAAFerrisStateBulldogs {
+    background-position: -160px -20px
+}
+
+.flair-NCAAHarvardCrimson {
+    background-position: -180px -20px
+}
+
+.flair-NCAAHolyCrossCrusaders {
+    background-position: 0 -40px
+}
+
+.flair-NCAAIllinoisFightingIllini {
+    background-position: -20px -40px
+}
+
+.flair-NCAAIowaHawkeyes {
+    background-position: -40px -40px
+}
+
+.flair-NCAALakeSuperiorLakers {
+    background-position: -60px -40px
+}
+
+.flair-NCAAMaineBlackBears {
+    background-position: -80px -40px
+}
+
+.flair-NCAAMercyhurstLakers {
+    background-position: -100px -40px
+}
+
+.flair-NCAAMerrimackWarriors {
+    background-position: -120px -40px
+}
+
+.flair-NCAAMiamiRedHawks {
+    background-position: -140px -40px
+}
+
+.flair-NCAAMichiganStateSpartans {
+    background-position: -160px -40px
+}
+
+.flair-NCAAMichiganTechHuskies {
+    background-position: -180px -40px
+}
+
+.flair-NCAAMichiganWolverines {
+    background-position: 0 -60px
+}
+
+.flair-NCAAMinnesotaDuluthBulldogs {
+    background-position: -20px -60px
+}
+
+.flair-NCAAMinnesotaGoldenGophers {
+    background-position: -40px -60px
+}
+
+.flair-NCAAMinnesotaStateMavericks {
+    background-position: -60px -60px
+}
+
+.flair-NCAANebraskaOmahaMavericks {
+    background-position: -80px -60px
+}
+
+.flair-NCAANewHampshireWildcats {
+    background-position: -100px -60px
+}
+
+.flair-NCAANiagaraPurpleEagles {
+    background-position: -120px -60px
+}
+
+.flair-NCAANorthDakotaFightingSioux {
+    background-position: -140px -60px
+}
+
+.flair-NCAANortheasternHuskies {
+    background-position: -160px -60px
+}
+
+.flair-NCAANorthernMichiganWildcats {
+    background-position: -180px -60px
+}
+
+.flair-NCAANotreDameFightingIrish {
+    background-position: 0 -80px
+}
+
+.flair-NCAAOhioStateBuckeyes {
+    background-position: -20px -80px
+}
+
+.flair-NCAAOhioUniversityBobcats {
+    background-position: -200px -20px
+}
+
+.flair-NCAAPennStateNittanyLions {
+    background-position: -200px 0px
+}
+
+.flair-NCAAPrincetonTigers {
+    background-position: -40px -80px
+}
+
+.flair-NCAAProvidenceFriars {
+    background-position: -60px -80px
+}
+
+.flair-NCAAQuinnipiacBobcats {
+    background-position: -80px -80px
+}
+
+.flair-NCAARITTigers {
+    background-position: -100px -80px
+}
+
+.flair-NCAARensselaerPoly {
+    background-position: -120px -80px
+}
+
+.flair-NCAARobertMorrisColonials {
+    background-position: -140px -80px
+}
+
+.flair-NCAASacredHeartPioneers {
+    background-position: -160px -80px
+}
+
+.flair-NCAAStCloudHuskies {
+    background-position: -180px -80px
+}
+
+.flair-NCAAStLawrenceSaints {
+    background-position: 0 -100px
+}
+
+.flair-NCAAUConnHuskies {
+    background-position: -20px -100px
+}
+
+.flair-NCAAUMassLowellRiverHawks {
+    background-position: -40px -100px
+}
+
+.flair-NCAAUMassMinutemen {
+    background-position: -60px -100px
+}
+
+.flair-NCAAUSMCBlackKnights {
+    background-position: -80px -100px
+}
+
+.flair-NCAAUnionCollege {
+    background-position: -100px -100px
+}
+
+.flair-NCAAVermontCatamounts {
+    background-position: -120px -100px
+}
+
+.flair-NCAAWesternMichiganBroncos {
+    background-position: -140px -100px
+}
+
+.flair-NCAAWisconsinBadgers {
+    background-position: -160px -100px
+}
+
+.flair-NCAAYaleBulldogs {
+    background-position: -180px -100px
+}
+

@@ -1,0 +1,2364 @@
+
+
+a[href="/r/anaheimducks"]:before,a[href="/r/bostonbruins"]:before,a[href="/r/sabres"]:before,a[href="/r/calgaryflames"]:before,a[href="/r/canes"]:before,a[href="/r/hawks"]:before,a[href="/r/coloradoavalanche"]:before,a[href="/r/bluejackets"]:before,a[href="/r/dallasstars"]:before,a[href="/r/detroitredwings"]:before,a[href="/r/edmontonoilers"]:before,a[href="/r/floridapanthers"]:before,a[href="/r/losangeleskings"]:before,a[href="/r/LosAngelesKings"]:before,a[href="/r/wildhockey"]:before,a[href="/r/habs"]:before,a[href="/r/predators"]:before,a[href="/r/devils"]:before,a[href="/r/newyorkislanders"]:before,a[href="/r/rangers"]:before,a[href="/r/ottawasenators"]:before,a[href="/r/flyers"]:before,a[href="/r/coyotes"]:before,a[href="/r/penguins"]:before,a[href="/r/sanjosesharks"]:before,a[href="/r/stlouisblues"]:before,a[href="/r/tampabaylightning"]:before,a[href="/r/leafs"]:before,a[href="/r/atlantathrashers"]:before,a[href="/r/canucks"]:before,a[href="/r/caps"]:before,a[href="/r/winnipegjets"]:before,a[href="/r/austria"]:before,a[href="/r/TeamCanada"]:before,a[href="/r/czech"]:before,a[href="/r/denmark"]:before,a[href="/r/finland"]:before,a[href="/r/unitedkingdom"]:before,a[href="/r/japan"]:before,a[href="/r/norway"]:before,a[href="/r/latvia"]:before,a[href="/r/russia"]:before,a[href="/r/slovakia"]:before,a[href="/r/slovenia"]:before,a[href="/r/sweden"]:before,a[href="/r/switzerland"]:before,a[href="/r/USAHockey"]:before {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url("//b.thumbs.redditmedia.com/2In1stTFDUgDtMDqhNsGRtBlqWH61bsPp_cFS5NidhE.png");
+    background-position: -9999px -9999px;
+    vertical-align: middle;
+    content: " "
+}
+
+.flair {
+    width: 20px;
+    height: 20px;
+    line-height: 16px;
+    overflow: hidden;
+    vertical-align: middle;
+    font-size: inherit;
+    background-color: transparent;
+    color: #222;
+    padding: 2px;
+    margin-right: 3px;
+    border-width: 0;
+    border-radius: 3px
+}
+
+.collapsed .flair {
+    opacity: 0.4;
+    display: inline-block
+}
+
+
+
+
+
+.commentarea .author:after {
+    color: #333
+}
+
+.commentarea .author[href$="seKer82"]:after {
+    content: " [Pierre McGuire Fan Club Founder]"
+}
+
+.commentarea .author[href$="kmad"]:after {
+    content: " [Riot Survivor]"
+}
+
+.commentarea .author[href$="WoozleWuzzle"]:hover:after {
+    content: " [Evidence by Citation]"
+}
+
+.commentarea .author[href$="gthank"]:after {
+    content: " [Hockey Refugee]"
+}
+
+.commentarea .author[href$="scp333"]:after {
+    content: " [Go Bolts Security]"
+}
+
+.commentarea .author[href$="ISISFieldAgent"]:after {
+    content: " [Chuck Fletcher is a Wizard]"
+}
+
+.commentarea .author[href$="Gonkulator"]:after {
+    content: " [That Guy]"
+}
+
+.commentarea .author[href$="LP99"]:after {
+    content: " [Bleeds Blue]"
+}
+
+.commentarea .author[href$="Johnald"]:after {
+    content: " [Commissioner of Trash Talk]"
+}
+
+.commentarea .author[href$="iezugod"]:after {
+    content: " [Carries the Flag]"
+}
+
+.commentarea .author[href$="preggit"]:after {
+    content: " [Latvian Locomotive]"
+}
+
+.commentarea .author[href$="noPENGSinALASKA"]:after {
+    content: " [Status Quo]"
+}
+
+.commentarea .author[href$="AbeFroman1986"]:after {
+    content: " [MIN/NJD/VAN]"
+}
+
+.commentarea .author[href$="bodavid"]:after {
+    content: " [Tenacious Fan]"
+}
+
+.commentarea .author[href$="PittPensPats"]:after {
+    content: " [BrittFromPitt]"
+}
+
+.commentarea .author[href$="ccarico"]:after {
+    content: " [Hockey's Shepherd]"
+}
+
+.commentarea .author[href$="7we4k"]:after {
+    content: " [Perry's Party Hat]"
+}
+
+.commentarea .author[href$="VasiliiZaytsev"]:after {
+    content: " [In Lou We Trust]"
+}
+
+.commentarea .author[href$="ruggedshrimp"]:after {
+    content: " [Nifty Mittens]"
+}
+
+.commentarea .author[href$="Blobbles890"]:after {
+    content: " [LGRW]"
+}
+
+.commentarea .author[href$="golf4miami"]:after {
+    content: " [Obi-Hoss Kenobi]"
+}
+
+.commentarea .author[href$="JakeCameraAction"]:after {
+    content: " [Fivehead]"
+}
+
+.commentarea .author[href$="sentry07"]:after {
+    content: " [One Before I Die]"
+}
+
+.commentarea .author[href$="TeroTheTerror"]:after {
+    content: " [Perkele]"
+}
+
+.commentarea .author[href$="crazy_canucklehead"]:after {
+    content: " [Kind of Krug]"
+}
+
+.commentarea .author[href$="LAKingsDave"]:after {
+    content: " [I'm Like, Totally, Brad Doty's Biggest Fan!]"
+}
+
+.commentarea .author[href$="trex20"]:after {
+    content: " [Thanks Norm!]"
+}
+
+.commentarea .author[href$="lmoj1"]:after {
+    content: " [Stupid Sexy Karlsson]"
+}
+
+.commentarea .author[href$="vacuum2440"]:after {
+    content: " [I Am Score]"
+}
+
+.flair:before {
+    content: "";
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url("//b.thumbs.redditmedia.com/2In1stTFDUgDtMDqhNsGRtBlqWH61bsPp_cFS5NidhE.png");
+    vertical-align: middle;
+    margin-right: 4px
+}
+
+.flair-AHLAbbotsfordHeat:before {
+    background-position: 0 0!important
+}
+
+.flair-AHLAdirondackFlames-2:before {
+    background-position: -84px -1936px!important
+}
+
+.flair-AHLAlbanyDevils:before {
+    background-position: 0 -42px!important
+}
+
+.flair-AHLBinghamtonSenators:before {
+    background-position: 0 -63px!important
+}
+
+.flair-AHLBridgeportSoundTigers:before {
+    background-position: 0 -84px!important
+}
+
+.flair-AHLCharlotteCheckers:before {
+    background-position: 0 -105px!important
+}
+
+.flair-AHLChicagoWolves:before {
+    background-position: 0 -126px!important
+}
+
+.flair-AHLConneticutWhale:before {
+    background-position: 0 -147px!important
+}
+
+.flair-AHLGrandRapidsGriffins:before {
+    background-position: 0 -168px!important
+}
+
+.flair-AHLHamiltonBulldogs:before {
+    background-position: 0 -189px!important
+}
+
+.flair-AHLHartfordWolfpack:before {
+    background-position: -84px -1015px!important
+}
+
+.flair-AHLHersheyBears:before {
+    background-position: 0 -210px!important
+}
+
+.flair-AHLHoustonAeros:before {
+    background-position: 0 -231px!important
+}
+
+.flair-AHLIowaWild-2:before {
+    background-position: -104px -1996px!important
+}
+
+.flair-AHLLakeErieMonsters:before {
+    background-position: 0 -252px!important
+}
+
+.flair-AHLLehighValleyPhantoms:before {
+    background-position: 0 -21px!important
+}
+
+.flair-AHLManchesterMonarchs:before {
+    background-position: 0 -273px!important
+}
+
+.flair-AHLMilwaukeeAdmirals:before {
+    background-position: 0 -294px!important
+}
+
+.flair-AHLNorfolkAdmirals:before {
+    background-position: 0 -315px!important
+}
+
+.flair-AHLOklahomaCityBarons:before {
+    background-position: 0 -336px!important
+}
+
+.flair-AHLPeoriaRivermen:before {
+    background-position: 0 -357px!important
+}
+
+.flair-AHLPortlandPirates:before {
+    background-position: 0 -378px!important
+}
+
+.flair-AHLProvidenceBruins:before {
+    background-position: 0 -399px!important
+}
+
+.flair-AHLRochesterAmericans:before {
+    background-position: 0 -420px!important
+}
+
+.flair-AHLRockfordIceHogs:before {
+    background-position: 0 -441px!important
+}
+
+.flair-AHLStJohnsIceCaps:before {
+    background-position: 0 -462px!important
+}
+
+.flair-AHLSanAntonioRampage:before {
+    background-position: 0 -483px!important
+}
+
+.flair-AHLSpringfieldFalcons:before {
+    background-position: 0 -504px!important
+}
+
+.flair-AHLSyracuseCrunch:before {
+    background-position: 0 -525px!important
+}
+
+.flair-AHLTexasStars:before {
+    background-position: 0 -546px!important
+}
+
+.flair-AHLTexasStarsNew-2:before {
+    background-position: -104px -1836px!important
+}
+
+.flair-AHLTorontoMarlies:before {
+    background-position: 0 -567px!important
+}
+
+.flair-AHLUticaComets:before {
+    background-position: -84px -1055px!important
+}
+
+.flair-AHLWilkesBarreScrantonPenguins:before {
+    background-position: 0 -588px!important
+}
+
+.flair-AHLWorcesterSharks:before {
+    background-position: 0 -609px!important
+}
+
+.flair-DELAdlerMannheim:before {
+    background-position: 0 -630px!important
+}
+
+.flair-DELAugsburgerPanther:before {
+    background-position: 0 -651px!important
+}
+
+.flair-DELBerlineHC:before {
+    background-position: 0 -672px!important
+}
+
+.flair-DELDEGMetroStars:before {
+    background-position: 0 -693px!important
+}
+
+.flair-DELEHCMunchen:before {
+    background-position: 0 -714px!important
+}
+
+.flair-DELERCIngolstadt:before {
+    background-position: 0 -735px!important
+}
+
+.flair-DELGrizzlyAdamsWolfsburg:before {
+    background-position: 0 -756px!important
+}
+
+.flair-DELHamburgFreezers:before {
+    background-position: 0 -777px!important
+}
+
+.flair-DELHannoverScorpions:before {
+    background-position: 0 -798px!important
+}
+
+.flair-DELIserlohnRoosters:before {
+    background-position: 0 -819px!important
+}
+
+.flair-DELKoelnerHaie:before {
+    background-position: 0 -840px!important
+}
+
+.flair-DELKrefeldPinguine:before {
+    background-position: 0 -861px!important
+}
+
+.flair-DELSchwenningerWildWings-2:before {
+    background-position: -104px -1515px!important
+}
+
+.flair-DELStraubingTigers:before {
+    background-position: 0 -882px!important
+}
+
+.flair-DELThomasSaboIceTigers:before {
+    background-position: 0 -903px!important
+}
+
+.flair-ELHBKMB:before {
+    background-position: 0 -924px!important
+}
+
+.flair-ELHHCBenzinaLitvinov:before {
+    background-position: 0 -945px!important
+}
+
+.flair-ELHHCBiliTygriLiberc:before {
+    background-position: 0 -966px!important
+}
+
+.flair-ELHHCEatonPardubice:before {
+    background-position: 0 -987px!important
+}
+
+.flair-ELHHCEnergieKarlovyVary:before {
+    background-position: 0 -1008px!important
+}
+
+.flair-ELHHCKometaBrno:before {
+    background-position: 0 -1029px!important
+}
+
+.flair-ELHHCMountfield:before {
+    background-position: 0 -1050px!important
+}
+
+.flair-ELHHKMountfieldHradecKralove-2:before {
+    background-position: -104px -740px!important
+}
+
+.flair-ELHHCOcelariTrinec:before {
+    background-position: 0 -1071px!important
+}
+
+.flair-ELHHCOknaKladno:before {
+    background-position: 0 -1092px!important
+}
+
+.flair-ELHHCOlomouc-2:before {
+    background-position: -104px -760px!important
+}
+
+.flair-ELHHCPlzen:before {
+    background-position: 0 -1113px!important
+}
+
+.flair-ELHHCSlaviaPraha:before {
+    background-position: 0 -1134px!important
+}
+
+.flair-ELHHCSpartaPraha:before {
+    background-position: 0 -1155px!important
+}
+
+.flair-ELHHCVitkoviceSteel:before {
+    background-position: 0 -1176px!important
+}
+
+.flair-ELHPSGZlin:before {
+    background-position: 0 -1197px!important
+}
+
+.flair-KHLAdmiralVladivostok-2:before {
+    background-position: -104px -1735px!important
+}
+
+.flair-KHLAkBarsKazan:before {
+    background-position: 0 -1218px!important
+}
+
+.flair-KHLAmurKhabarovsk:before {
+    background-position: 0 -1239px!important
+}
+
+.flair-KHLAmurKhabarovskNew-2:before {
+    background-position: -104px -1715px!important
+}
+
+.flair-KHLAtlantMoscowOblast:before {
+    background-position: 0 -1260px!important
+}
+
+.flair-KHLAtlantMytischi-2:before {
+    background-position: -104px -1575px!important
+}
+
+.flair-KHLAvangardOmskOblast:before {
+    background-position: 0 -1281px!important
+}
+
+.flair-KHLAvangardOmskOblastNew-2:before {
+    background-position: -104px -1595px!important
+}
+
+.flair-KHLAvtomobilistYekaterinburg:before {
+    background-position: 0 -1302px!important
+}
+
+.flair-KHLAvtomobilistYekaterinburgNew-2:before {
+    background-position: -104px -1655px!important
+}
+
+.flair-KHLBarysAstana:before {
+    background-position: 0 -1323px!important
+}
+
+.flair-KHLCSKAMoscow:before {
+    background-position: 0 -1344px!important
+}
+
+.flair-KHLCSKAMoskva-2:before {
+    background-position: -104px -1615px!important
+}
+
+.flair-KHLDinamoRiga:before {
+    background-position: 0 -1365px!important
+}
+
+.flair-KHLDonbassDonetsk:before {
+    background-position: -42px -1260px!important
+}
+
+.flair-KHLDynamoMoscow:before {
+    background-position: 0 -1386px!important
+}
+
+.flair-KHLHCDinamoMinsk:before {
+    background-position: 0 -1407px!important
+}
+
+.flair-KHLJokerit:before {
+    background-position: -63px -126px!important
+}
+
+.flair-KHLLadaTogliatti-2:before {
+    background-position: -104px -1754px!important
+}
+
+.flair-KHLLevPraha:before {
+    background-position: -42px -1281px!important
+}
+
+.flair-KHLLokomotivYaroslav:before {
+    background-position: 0 -1428px!important
+}
+
+.flair-KHLMedvescakZagreb-2:before {
+    background-position: -104px -1794px!important
+}
+
+.flair-KHLMetallurgMagnitogorsk:before {
+    background-position: 0 -1449px!important
+}
+
+.flair-KHLMetallurgMagnitogorskNew-2:before {
+    background-position: -104px -1635px!important
+}
+
+.flair-KHLMetallurgNovokuznetsk:before {
+    background-position: 0 -1470px!important
+}
+
+.flair-KHLNeftekhimikNizhnekamsk:before {
+    background-position: 0 -1491px!important
+}
+
+.flair-KHLSKASaintPetersburg:before {
+    background-position: 0 -1512px!important
+}
+
+.flair-KHLSalavatYulaevUfa:before {
+    background-position: 0 -1533px!important
+}
+
+.flair-KHLSeverstalCherepovets:before {
+    background-position: 0 -1554px!important
+}
+
+.flair-KHLSibirNovosibirsk:before {
+    background-position: 0 -1575px!important
+}
+
+.flair-KHLSibirNovosibirskNew-2:before {
+    background-position: -104px -1695px!important
+}
+
+.flair-KHLSpartakMoscow:before {
+    background-position: 0 -1596px!important
+}
+
+.flair-KHLSlovanBratislava:before {
+    background-position: -42px -1302px!important
+}
+
+.flair-KHLHKSochi-2:before {
+    background-position: -104px -1774px!important
+}
+
+.flair-KHLSpartakMoscow:before,.flair-KHLSpartakMoscow {
+    background-position: 0 -1596px!important
+}
+
+.flair-KHLTorpedoNizhnyNovgorod:before {
+    background-position: 0 -1617px!important
+}
+
+.flair-KHLTraktorChelyabinsk:before {
+    background-position: 0 -1638px!important
+}
+
+.flair-KHLVityazChekbov:before {
+    background-position: 0 -1659px!important
+}
+
+.flair-KHLYugraKhantyMansiysk:before {
+    background-position: 0 -1680px!important
+}
+
+.flair-KHLYugraKhantyMansiyskNew-2:before {
+    background-position: -104px -1675px!important
+}
+
+a[href="/r/anaheimducks"]:before,.flair-ANANHL:before {
+    background-position: 0 -1701px!important
+}
+
+.flair-ANAAltNHL:before {
+    background-position: 0 -1722px!important
+}
+
+.flair-ANAOldNHL:before {
+    background-position: 0 -1743px!important
+}
+
+.flair-ANAOldAltNHL:before {
+    background-position: 0 -1764px!important
+}
+
+a[href="/r/coyotes"]:before,.flair-ARINHL:before {
+    background-position: -21px -1596px!important
+}
+
+.flair-ARIAlt1NHL:before {
+    background-position: -21px -1617px!important
+}
+
+.flair-ARIAlt2NHL:before {
+    background-position: -21px -1638px!important
+}
+
+.flair-ARIAlt3NHL:before {
+    background-position: -21px -1659px!important
+}
+
+.flair-ARIOldNHL:before {
+    background-position: -21px -1680px!important
+}
+
+.flair-ARIOldHeadNHL:before {
+    background-position: -21px -1701px!important
+}
+
+a[href="/r/bostonbruins"]:before,.flair-BOSNHL:before {
+    background-position: 0 -1785px!important
+}
+
+.flair-BOSAltNHL:before {
+    background-position: 0 -1806px!important
+}
+
+.flair-BOSOld1NHL:before {
+    background-position: 0 -1827px!important
+}
+
+.flair-BOSOld2NHL:before {
+    background-position: 0 -1848px!important
+}
+
+.flair-BOSOld3NHL:before {
+    background-position: 0 -1869px!important
+}
+
+.flair-BOSOld4NHL:before {
+    background-position: 0 -1890px!important
+}
+
+.flair-BOSPoohBearNHL-2:before {
+    background-position: -104px -1956px!important
+}
+
+.flair-BUFBuffaslugNHL:before {
+    background-position: 0 -1911px!important
+}
+
+a[href="/r/sabres"]:before,.flair-BUFNHL:before {
+    background-position: 0 -1932px!important
+}
+
+.flair-BUFAltNHL:before {
+    background-position: 0 -1953px!important
+}
+
+.flair-BUFAngryGoatNHL:before {
+    background-position: 0 -1974px!important
+}
+
+.flair-BUFAngryGoatAltNHL:before {
+    background-position: -84px -995px!important
+}
+
+a[href="/r/calgaryflames"]:before,.flair-CGYNHL:before {
+    background-position: 0 -1995px!important
+}
+
+.flair-CGYHorseNHL:before {
+    background-position: -21px 0!important
+}
+
+.flair-CGYOldNHL:before {
+    background-position: -21px -21px!important
+}
+
+.flair-CGYShoulderPatchNHL-2:before {
+    background-position: -104px -1936px!important
+}
+
+.flair-CGY80sNHL-2:before {
+    background-position: -104px -1816px!important
+}
+
+a[href="/r/canes"]:before,.flair-CARNHL:before {
+    background-position: -21px -42px!important
+}
+
+.flair-CARAltNHL:before {
+    background-position: -21px -63px!important
+}
+
+a[href="/r/hawks"]:before,.flair-CHINHL:before {
+    background-position: -21px -84px!important
+}
+
+.flair-CHIAlt1NHL:before {
+    background-position: -21px -105px!important
+}
+
+.flair-CHIAlt2NHL:before {
+    background-position: -21px -126px!important
+}
+
+.flair-CHIOldNHL:before {
+    background-position: -21px -147px!important
+}
+
+a[href="/r/coloradoavalanche"]:before,.flair-COLNHL:before {
+    background-position: -21px -168px!important
+}
+
+.flair-COLAltNHL:before {
+    background-position: -21px -189px!important
+}
+
+a[href="/r/bluejackets"]:before,.flair-CBJNHL:before {
+    background-position: -21px -210px!important
+}
+
+.flair-CBJAlt1NHL:before {
+    background-position: -21px -231px!important
+}
+
+.flair-CBJAlt2NHL:before {
+    background-position: -21px -252px!important
+}
+
+.flair-CBJOld1NHL:before {
+    background-position: -21px -273px!important
+}
+
+.flair-CBJOld2NHL:before {
+    background-position: -21px -294px!important
+}
+
+a[href="/r/dallasstars"]:before,.flair-DALNHL:before {
+    background-position: -84px -755px!important
+}
+
+.flair-DALCrestNHL:before {
+    background-position: -84px -775px!important
+}
+
+.flair-DALTexasNHL:before {
+    background-position: -84px -815px!important
+}
+
+.flair-DALOldNHL:before {
+    background-position: -84px -855px!important
+}
+
+.flair-DALTexasOldNHL:before {
+    background-position: -84px -795px!important
+}
+
+.flair-DALDallasTextNHL:before {
+    background-position: -84px -835px!important
+}
+
+.flair-DALMooterusNHL:before {
+    background-position: -84px -875px!important
+}
+
+a[href="/r/detroitredwings"]:before,.flair-DETNHL:before {
+    background-position: -21px -357px!important
+}
+
+.flair-DETDNHL:before {
+    background-position: -21px -378px!important
+}
+
+.flair-DETOld1NHL:before {
+    background-position: -21px -399px!important
+}
+
+.flair-DETOld2NHL:before {
+    background-position: -21px -420px!important
+}
+
+a[href="/r/edmontonoilers"]:before,.flair-EDMNHL:before {
+    background-position: -21px -441px!important
+}
+
+.flair-EDMBlueOrangeNHL:before {
+    background-position: -21px -462px!important
+}
+
+.flair-EDMGearNHL:before {
+    background-position: -21px -483px!important
+}
+
+.flair-EDMOldNHL:before {
+    background-position: -21px -504px!important
+}
+
+.flair-EDMOrangeNHL:before {
+    background-position: -21px -525px!important
+}
+
+a[href="/r/floridapanthers"]:before,.flair-FLANHL:before {
+    background-position: -84px -955px!important
+}
+
+.flair-FLAStickNHL:before {
+    background-position: -84px -935px!important
+}
+
+.flair-FLAPalmTreeNHL:before {
+    background-position: -84px -915px!important
+}
+
+.flair-FLACircleNHL:before {
+    background-position: -84px -895px!important
+}
+
+a[href="/r/losangeleskings"]:before,a[href="/r/LAK"]:before,.flair-LAKNHL:before {
+    background-position: -21px -567px!important
+}
+
+.flair-LAKAltNHL:before {
+    background-position: -21px -588px!important
+}
+
+.flair-LAKOld1NHL:before {
+    background-position: -21px -609px!important
+}
+
+.flair-LAKOld2NHL:before {
+    background-position: -21px -630px!important
+}
+
+.flair-LAKOld3NHL:before {
+    background-position: -21px -651px!important
+}
+
+.flair-LAKOld4NHL:before {
+    background-position: -21px -672px!important
+}
+
+.flair-LAKOldCrown1NHL:before {
+    background-position: -21px -693px!important
+}
+
+.flair-LAKOldCrown2NHL:before {
+    background-position: -21px -714px!important
+}
+
+.flair-LAKOldBurgerKingNHL:before {
+    background-position: -84px -1415px!important
+}
+
+a[href="/r/wildhockey"]:before,.flair-MINNHL:before {
+    background-position: -21px -735px!important
+}
+
+.flair-MINAlt1NHL:before {
+    background-position: -21px -756px!important
+}
+
+.flair-MINAlt2NHL:before {
+    background-position: -21px -777px!important
+}
+
+.flair-MINAlt3NHL:before {
+    background-position: -84px -975px!important
+}
+
+a[href="/r/habs"]:before,.flair-MTLNHL:before {
+    background-position: -21px -798px!important
+}
+
+.flair-MTLOld1NHL:before {
+    background-position: -21px -819px!important
+}
+
+.flair-MTLOld2NHL:before {
+    background-position: -21px -840px!important
+}
+
+.flair-MTLOld3NHL:before {
+    background-position: -21px -861px!important
+}
+
+.flair-MTLOld4NHL:before {
+    background-position: -21px -882px!important
+}
+
+.flair-MTLOld5NHL:before {
+    background-position: -21px -903px!important
+}
+
+.flair-MTLOld6NHL:before {
+    background-position: -21px -924px!important
+}
+
+.flair-MTLOld7NHL:before {
+    background-position: -21px -945px!important
+}
+
+.flair-MTLOld8NHL:before {
+    background-position: -21px -966px!important
+}
+
+.flair-LogoNHL:before {
+    background-position: -84px -733px!important
+}
+
+a[href="/r/predators"]:before,.flair-NSHNHL:before {
+    background-position: -21px -987px!important
+}
+
+.flair-NSHOldNHL:before {
+    background-position: -21px -1008px!important
+}
+
+.flair-NSHPickNHL:before {
+    background-position: -21px -1029px!important
+}
+
+.flair-NSHFossilNHL-2:before {
+    background-position: -84px -1976px!important
+}
+
+.flair-NSH3DCatNHL-2:before {
+    background-position: -84px -1996px!important
+}
+
+a[href="/r/devils"]:before,.flair-NJDNHL:before {
+    background-position: -21px -1050px!important
+}
+
+.flair-NJDOldNHL:before {
+    background-position: -21px -1071px!important
+}
+
+a[href="/r/newyorkislanders"]:before,.flair-NYINHL:before {
+    background-position: -21px -1092px!important
+}
+
+.flair-NYIFishermanNHL:before {
+    background-position: -21px -1113px!important
+}
+
+.flair-NYIOldNHL:before {
+    background-position: -21px -1134px!important
+}
+
+.flair-NYIStadiumSeriesNHL-2:before {
+    background-position: -84px -1916px!important
+}
+
+a[href="/r/rangers"]:before,.flair-NYRNHL:before {
+    background-position: -21px -1155px!important
+}
+
+.flair-NYRLadyNHL:before {
+    background-position: -21px -1176px!important
+}
+
+.flair-NYROld1NHL:before {
+    background-position: -21px -1197px!important
+}
+
+.flair-NYROld2NHL:before {
+    background-position: -21px -1218px!important
+}
+
+.flair-NYROld3NHL:before {
+    background-position: -21px -1239px!important
+}
+
+a[href="/r/ottawasenators"]:before,.flair-OTTNHL:before {
+    background-position: -21px -1491px!important
+}
+
+.flair-OTTAlt1NHL:before {
+    background-position: -21px -1512px!important
+}
+
+.flair-OTTAlt2NHL:before {
+    background-position: -21px -1533px!important
+}
+
+.flair-OTTOldNHL:before {
+    background-position: -21px -1554px!important
+}
+
+a[href="/r/flyers"]:before,.flair-PHINHL:before {
+    background-position: -21px -1575px!important
+}
+
+.flair-PHISilverNHL-2:before {
+    background-position: -104px -1495px!important
+}
+
+a[href="/r/penguins"]:before,.flair-PITNHL:before {
+    background-position: -21px -1722px!important
+}
+
+.flair-PITAltNHL:before {
+    background-position: -21px -1743px!important
+}
+
+.flair-PITOld1NHL:before {
+    background-position: -21px -1764px!important
+}
+
+.flair-PITOld2NHL:before {
+    background-position: -21px -1785px!important
+}
+
+.flair-PITOld3NHL:before {
+    background-position: -21px -1806px!important
+}
+
+a[href="/r/sanjosesharks"]:before,.flair-SJSNHL:before {
+    background-position: -21px -1827px!important
+}
+
+.flair-SJSAltNHL:before {
+    background-position: -21px -1848px!important
+}
+
+.flair-SJSOldNHL:before {
+    background-position: -21px -1869px!important
+}
+
+.flair-SJSOldAltNHL:before {
+    background-position: -21px -1890px!important
+}
+
+a[href="/r/stlouisblues"]:before,.flair-STLNHL:before {
+    background-position: -21px -1911px!important
+}
+
+.flair-STLAltNHL:before {
+    background-position: -21px -1932px!important
+}
+
+.flair-STLOld1NHL:before {
+    background-position: -21px -1953px!important
+}
+
+.flair-STLOld2NHL:before {
+    background-position: -21px -1974px!important
+}
+
+.flair-STLOldAltNHL:before {
+    background-position: -21px -1995px!important
+}
+
+a[href="/r/tampabaylightning"]:before,.flair-TBLNHL:before {
+    background-position: -42px 0!important
+}
+
+.flair-TBLAltNHL:before {
+    background-position: -42px -21px!important
+}
+
+.flair-TBLOld1NHL:before {
+    background-position: -42px -42px!important
+}
+
+.flair-TBLOld2NHL:before {
+    background-position: -42px -63px!important
+}
+
+.flair-TBLOldAltNHL:before {
+    background-position: -42px -84px!important
+}
+
+a[href="/r/leafs"]:before,.flair-TORNHL:before {
+    background-position: -42px -105px!important
+}
+
+.flair-TORAltNHL:before {
+    background-position: -42px -126px!important
+}
+
+.flair-TOROld1NHL:before {
+    background-position: -42px -147px!important
+}
+
+.flair-TOROld2NHL:before {
+    background-position: -42px -168px!important
+}
+
+.flair-TOROld3NHL:before {
+    background-position: -42px -189px!important
+}
+
+a[href="/r/canucks"]:before,.flair-VANNHL:before {
+    background-position: -42px -210px!important
+}
+
+.flair-VANOldOrcaNHL:before {
+    background-position: -42px -231px!important
+}
+
+.flair-VANSkateNHL:before {
+    background-position: -42px -252px!important
+}
+
+.flair-VANStickInRinkNHL:before {
+    background-position: -42px -273px!important
+}
+
+.flair-VANStickInRinkOGNHL-2:before {
+    background-position: -104px -1555px!important
+}
+
+.flair-VANVNHL:before {
+    background-position: -42px -294px!important
+}
+
+a[href="/r/caps"]:before,.flair-WSHNHL:before {
+    background-position: -42px -315px!important
+}
+
+.flair-WSHAltNHL:before {
+    background-position: -42px -336px!important
+}
+
+.flair-WSHOld1NHL:before {
+    background-position: -42px -357px!important
+}
+
+.flair-WSHOld2NHL:before {
+    background-position: -42px -378px!important
+}
+
+.flair-WSHOld3NHL:before {
+    background-position: -42px -399px!important
+}
+
+a[href="/r/winnipegjets"]:before,.flair-WPGNHL:before {
+    background-position: -42px -420px!important
+}
+
+.flair-WPGAltNHL:before {
+    background-position: -42px -441px!important
+}
+
+.flair-WPGOldBlueNHL:before {
+    background-position: -42px -462px!important
+}
+
+.flair-WPGOldWhiteNHL:before {
+    background-position: -42px -483px!important
+}
+
+.flair-NLAEHCBiel:before {
+    background-position: -42px -504px!important
+}
+
+.flair-NLAEVZug:before {
+    background-position: -42px -525px!important
+}
+
+.flair-NLAGeneveServetteHC:before {
+    background-position: -42px -546px!important
+}
+
+.flair-NLAHCAmbriPiotta:before {
+    background-position: -42px -567px!important
+}
+
+.flair-NLAHCDavos:before {
+    background-position: -42px -588px!important
+}
+
+.flair-NLAHCFribourgGotteron:before {
+    background-position: -42px -609px!important
+}
+
+.flair-NLALausanneHC-2:before {
+    background-position: -104px -1535px!important
+}
+
+.flair-NLAHCLugano:before {
+    background-position: -42px -630px!important
+}
+
+.flair-NLAKlotenFlyers:before {
+    background-position: -42px -651px!important
+}
+
+.flair-NLARapperswilJonaLakers:before {
+    background-position: -42px -672px!important
+}
+
+.flair-NLASCBern:before {
+    background-position: -42px -693px!important
+}
+
+.flair-NLASCLTigers:before {
+    background-position: -42px -714px!important
+}
+
+.flair-NLAZSCLions:before {
+    background-position: -42px -735px!important
+}
+
+.flair-OHLBarrieColts:before {
+    background-position: -42px -756px!important
+}
+
+.flair-OHLBellevilleBulls:before {
+    background-position: -42px -777px!important
+}
+
+.flair-OHLNorthBayBattalion:before {
+    background-position: -42px -798px!important
+}
+
+.flair-OHLErieotters:before {
+    background-position: -42px -819px!important
+}
+
+.flair-OHLGuelphStorm:before {
+    background-position: -42px -840px!important
+}
+
+.flair-OHLKingstonFrontenacs:before {
+    background-position: -42px -861px!important
+}
+
+.flair-OHLKingstonFrontenacsNew-2:before {
+    background-position: -104px -1916px!important
+}
+
+.flair-OHLKitchenerRangers:before {
+    background-position: -42px -882px!important
+}
+
+.flair-OHLLondonKnights:before {
+    background-position: -42px -903px!important
+}
+
+.flair-OHLMississaugaSteelheads:before {
+    background-position: -42px -924px!important
+}
+
+.flair-OHLNiagaraIceDogs:before {
+    background-position: -42px -945px!important
+}
+
+.flair-OHLOshawaGenerals:before {
+    background-position: -42px -966px!important
+}
+
+.flair-OHLOttawa67s:before {
+    background-position: -42px -987px!important
+}
+
+.flair-OHLOwenSoundAttack:before {
+    background-position: -42px -1008px!important
+}
+
+.flair-OHLPeterboroughPetes:before {
+    background-position: -42px -1029px!important
+}
+
+.flair-OHLPlymouthWhalers:before {
+    background-position: -42px -1050px!important
+}
+
+.flair-OHLSaginawSpirit:before {
+    background-position: -42px -1071px!important
+}
+
+.flair-OHLSarniaSting:before {
+    background-position: -42px -1092px!important
+}
+
+.flair-OHLSooGreyhounds:before {
+    background-position: -42px -1113px!important
+}
+
+.flair-OHLSudburyWolves:before {
+    background-position: -42px -1134px!important
+}
+
+.flair-OHLWindsorSpitfires:before {
+    background-position: -42px -1155px!important
+}
+
+.flair-AtlantaFlamesOLDNHL:before {
+    background-position: -21px -1260px!important
+}
+
+a[href="/r/atlantathrashers"]:before,.flair-AtlantaThrashersOLDNHL:before {
+    background-position: -21px -1281px!important
+}
+
+.flair-AtlantaThrashersAltOLDNHL:before {
+    background-position: -21px -1302px!important
+}
+
+.flair-AtlantaThrashersBirdHeadOLDNHL:before {
+    background-position: -21px -1323px!important
+}
+
+.flair-CaliforniaGoldenSealsOLDNHL:before {
+    background-position: -21px -1344px!important
+}
+
+.flair-ClevelandBaronsOLDNHL-2:before {
+    background-position: -104px -1896px!important
+}
+
+.flair-ColoradoRockiesOLDNHL:before {
+    background-position: -21px -1365px!important
+}
+
+.flair-HartfordWhalersOLDNHL:before {
+    background-position: -21px -1386px!important
+}
+
+.flair-HartfordWhalersSilverOLDNHL:before {
+    background-position: -21px -1407px!important
+}
+
+.flair-HartfordWhalersPuckyOLDNHL-2:before {
+    background-position: -84px -1956px!important
+}
+
+.flair-KansasCityScoutsOLDNHL:before {
+    background-position: -21px -1428px!important
+}
+
+.flair-MinnesotaNorthStarsOLDNHL:before {
+    background-position: -21px -1449px!important
+}
+
+.flair-SeattleMetropolitansOLDNHL-2:before {
+    background-position: -84px -1896px!important
+}
+
+.flair-QuebecNordiquesOLDNHL:before {
+    background-position: -21px -1470px!important
+}
+
+.flair-VancouverMillionairesOLDNHL:before {
+    background-position: -84px -1395px!important
+}
+
+.flair-QMJHLAcadieBathurstTitan:before {
+    background-position: -42px -1407px!important
+}
+
+.flair-QMJHLBBArmada:before {
+    background-position: -42px -1428px!important
+}
+
+.flair-QMJHLBaieComeauDrakkar:before {
+    background-position: -42px -1449px!important
+}
+
+.flair-QMJHLCapeBretonScreamingEagles:before {
+    background-position: -42px -1470px!important
+}
+
+.flair-QMJHLChicoutimiSagueneens:before {
+    background-position: -42px -1491px!important
+}
+
+.flair-QMJHLDrummondvilleVoltigeurs:before {
+    background-position: -42px -1512px!important
+}
+
+.flair-QMJHLGatineauOlympiques:before {
+    background-position: -42px -1533px!important
+}
+
+.flair-QMJHLHalifaxMooseheads:before {
+    background-position: -42px -1554px!important
+}
+
+.flair-QMJHLMonctonWildcats:before {
+    background-position: -42px -1575px!important
+}
+
+.flair-QMJHLPEIRocket:before {
+    background-position: -42px -1596px!important
+}
+
+.flair-QMJHLQuebecRemparts:before {
+    background-position: -42px -1617px!important
+}
+
+.flair-QMJHLRimouskiOceanic:before {
+    background-position: -42px -1638px!important
+}
+
+.flair-QMJHLRouynNorandaHuskies:before {
+    background-position: -42px -1659px!important
+}
+
+.flair-QMJHLSaintJohnSeaDogs:before {
+    background-position: -42px -1680px!important
+}
+
+.flair-QMJHLShawiniganCataractes:before {
+    background-position: -42px -1701px!important
+}
+
+.flair-QMJHLSherbrookePhoenix:before {
+    background-position: -42px -1197px!important
+}
+
+.flair-QMJHLValdOrForeurs:before {
+    background-position: -42px -1722px!important
+}
+
+.flair-QMJHLVictoriavilleTigers:before {
+    background-position: -42px -1743px!important
+}
+
+.flair-SHLBrynasIF:before {
+    background-position: -42px -1785px!important
+}
+
+.flair-SHLDjugardensIF:before {
+    background-position: -42px -1806px!important
+}
+
+.flair-SHLFarjestadsBK:before {
+    background-position: -42px -1827px!important
+}
+
+.flair-SHLFrolundaHC:before {
+    background-position: -42px -1848px!important
+}
+
+.flair-SHLHV71:before {
+    background-position: -42px -1869px!important
+}
+
+.flair-SHLLeksandsIF-2:before {
+    background-position: -84px -1876px!important
+}
+
+.flair-SHLLinkopingsHC:before {
+    background-position: -42px -1890px!important
+}
+
+.flair-SHLLuleaHF:before {
+    background-position: -42px -1911px!important
+}
+
+.flair-SHLModoHockey:before {
+    background-position: -42px -1932px!important
+}
+
+.flair-SHLOrebroHK-2:before {
+    background-position: -84px -1856px!important
+}
+
+.flair-SHLSkellefteaAIK:before {
+    background-position: -42px -1953px!important
+}
+
+.flair-SHLVaxjoLakers:before {
+    background-position: -42px -1995px!important
+}
+
+.flair-SMAssat:before {
+    background-position: -63px 0!important
+}
+
+.flair-SMBlues:before {
+    background-position: -63px -21px!important
+}
+
+.flair-SMHIFK:before {
+    background-position: -63px -42px!important
+}
+
+.flair-SMHPK:before {
+    background-position: -63px -63px!important
+}
+
+.flair-SMIlves:before {
+    background-position: -63px -84px!important
+}
+
+.flair-SMJYP:before {
+    background-position: -63px -105px!important
+}
+
+.flair-SMKalPa:before {
+    background-position: -63px -147px!important
+}
+
+.flair-SMKarpat:before {
+    background-position: -63px -168px!important
+}
+
+.flair-SMLukko:before {
+    background-position: -63px -189px!important
+}
+
+.flair-SMPelicans:before {
+    background-position: -63px -210px!important
+}
+
+.flair-SMSaiPa:before {
+    background-position: -63px -231px!important
+}
+
+.flair-SMTPS:before {
+    background-position: -63px -252px!important
+}
+
+.flair-SMTappara:before {
+    background-position: -63px -273px!important
+}
+
+.flair-SMVaasanSport-2:before {
+    background-position: -104px -1876px!important
+}
+
+.flair-WHLBrandonWheatKings:before {
+    background-position: -63px -294px!important
+}
+
+.flair-WHLCalgaryHitmen:before {
+    background-position: -63px -315px!important
+}
+
+.flair-WHLEdmontonOilKings:before {
+    background-position: -63px -336px!important
+}
+
+.flair-WHLEverettSilvertips:before {
+    background-position: -63px -357px!important
+}
+
+.flair-WHLKamloopsBlazers:before {
+    background-position: -63px -378px!important
+}
+
+.flair-WHLKelownaRockets:before {
+    background-position: -63px -399px!important
+}
+
+.flair-WHLKootenayIce:before {
+    background-position: -63px -420px!important
+}
+
+.flair-WHLLethbridgeHurricanes:before {
+    background-position: -63px -441px!important
+}
+
+.flair-WHLMedicineHatTigers:before {
+    background-position: -63px -462px!important
+}
+
+.flair-WHLMooseJawWarriors:before {
+    background-position: -63px -483px!important
+}
+
+.flair-WHLPortlandWinterhawks:before {
+    background-position: -63px -504px!important
+}
+
+.flair-WHLPrinceAlbertRaiders:before {
+    background-position: -63px -525px!important
+}
+
+.flair-WHLPrinceAlbertRaidersNew-2:before {
+    background-position: -104px -1475px!important
+}
+
+.flair-WHLPrinceGeorgeCougars:before {
+    background-position: -63px -546px!important
+}
+
+.flair-WHLRedDeerRebels:before {
+    background-position: -63px -567px!important
+}
+
+.flair-WHLReginaPats:before {
+    background-position: -63px -588px!important
+}
+
+.flair-WHLSaskatoonBlades:before {
+    background-position: -63px -609px!important
+}
+
+.flair-WHLSeattleThunderbirds:before {
+    background-position: -63px -630px!important
+}
+
+.flair-WHLSpokaneChiefs:before {
+    background-position: -63px -651px!important
+}
+
+.flair-WHLSwiftCurrentBroncos:before {
+    background-position: -63px -672px!important
+}
+
+.flair-WHLTriCityAmericans:before {
+    background-position: -63px -693px!important
+}
+
+.flair-WHLVancouverGiants:before {
+    background-position: -63px -714px!important
+}
+
+.flair-WHLVictoriaRoyals:before {
+    background-position: -63px -735px!important
+}
+
+.flair-ECHLAlaskaAces:before {
+    background-position: -63px -756px!important
+}
+
+.flair-ECHLBakersfieldCondors:before {
+    background-position: -63px -777px!important
+}
+
+.flair-ECHLEvansvilleIcemen:before {
+    background-position: -63px -798px!important
+}
+
+.flair-ECHLCincinnatiCyclones:before {
+    background-position: -63px -819px!important
+}
+
+.flair-ECHLColoradoEagles:before {
+    background-position: -63px -840px!important
+}
+
+.flair-ECHLElmiraJackals:before {
+    background-position: -63px -861px!important
+}
+
+.flair-ECHLFloridaEverblades:before {
+    background-position: -63px -882px!important
+}
+
+.flair-ECHLFortWayneKomets:before {
+    background-position: -42px -1176px!important
+}
+
+.flair-ECHLGreenevilleRoadWarriors:before {
+    background-position: -63px -903px!important
+}
+
+.flair-ECHLGwinnettGladiators:before {
+    background-position: -63px -924px!important
+}
+
+.flair-ECHLIdahoSteelheads:before {
+    background-position: -63px -945px!important
+}
+
+.flair-ECHLIndyFuel-2:before {
+    background-position: -104px -1856px!important
+}
+
+.flair-ECHLKalamazooWings:before {
+    background-position: -63px -966px!important
+}
+
+.flair-ECHLLasVegasWranglers:before {
+    background-position: -63px -987px!important
+}
+
+.flair-ECHLOntarioReign:before {
+    background-position: -63px -1008px!important
+}
+
+.flair-ECHLOrlandoSolarBears:before {
+    background-position: -42px -1218px!important
+}
+
+.flair-ECHLReadingRoyals:before {
+    background-position: -63px -1029px!important
+}
+
+.flair-ECHLSanFranciscoBulls:before {
+    background-position: -42px -1239px!important
+}
+
+.flair-ECHLSouthCarolinaStingrays:before {
+    background-position: -63px -1050px!important
+}
+
+.flair-ECHLStocktonThunder:before {
+    background-position: -63px -1071px!important
+}
+
+.flair-ECHLToledoWalleye:before {
+    background-position: -63px -1092px!important
+}
+
+.flair-ECHLTrentonTitans:before {
+    background-position: -63px -1113px!important
+}
+
+.flair-ECHLUtahGrizzlies:before {
+    background-position: -63px -1134px!important
+}
+
+.flair-ECHLWheelingNailers:before {
+    background-position: -63px -1155px!important
+}
+
+.flair-NCAAAirForceFalcons:before {
+    background-position: -63px -1176px!important
+}
+
+.flair-NCAAAlabamaHuntsvilleChargers:before {
+    background-position: -63px -1197px!important
+}
+
+.flair-NCAAAlaskaAnchorageSeaWolves:before {
+    background-position: -63px -1218px!important
+}
+
+.flair-NCAAAlaskaNanooks:before {
+    background-position: -63px -1239px!important
+}
+
+.flair-NCAAAmericanInternationalYellowJackets:before {
+    background-position: -63px -1260px!important
+}
+
+.flair-NCAABemidjiStateBeavers:before {
+    background-position: -63px -1281px!important
+}
+
+.flair-NCAABentleyFalcons:before {
+    background-position: -63px -1302px!important
+}
+
+.flair-NCAABostonCollegeEagles:before {
+    background-position: -63px -1323px!important
+}
+
+.flair-NCAABostonUniversityTerriers:before {
+    background-position: -63px -1344px!important
+}
+
+.flair-NCAABowlingGreenFalcons:before {
+    background-position: -63px -1365px!important
+}
+
+.flair-NCAABrownBears:before {
+    background-position: -63px -1386px!important
+}
+
+.flair-NCAACanisiusGoldenGriffins:before {
+    background-position: -63px -1407px!important
+}
+
+.flair-NCAAClarksonGoldenKnights:before {
+    background-position: -63px -1428px!important
+}
+
+.flair-NCAAColgateRaiders:before {
+    background-position: -63px -1449px!important
+}
+
+.flair-NCAAColoradoCollegeTigers:before {
+    background-position: -63px -1470px!important
+}
+
+.flair-NCAACornellBigRed:before {
+    background-position: -63px -1491px!important
+}
+
+.flair-NCAADartmouthBigGreen:before {
+    background-position: -63px -1512px!important
+}
+
+.flair-NCAADenverPioneers:before {
+    background-position: -63px -1533px!important
+}
+
+.flair-NCAADepaulBlueDemons:before {
+    background-position: -84px -1035px!important
+}
+
+.flair-NCAAFerrisStateBulldogs:before {
+    background-position: -63px -1554px!important
+}
+
+.flair-NCAAHarvardCrimson:before {
+    background-position: -63px -1575px!important
+}
+
+.flair-NCAAHolyCrossCrusaders:before {
+    background-position: -63px -1596px!important
+}
+
+.flair-NCAALakeSuperiorLakers:before {
+    background-position: -63px -1659px!important
+}
+
+.flair-NCAAMaineBlackBears:before {
+    background-position: -63px -1680px!important
+}
+
+.flair-NCAAMercyhurstLakers:before {
+    background-position: -63px -1701px!important
+}
+
+.flair-NCAAMerrimackWarriors:before {
+    background-position: -63px -1722px!important
+}
+
+.flair-NCAAMiamiRedHawks:before {
+    background-position: -63px -1743px!important
+}
+
+.flair-NCAAMichiganStateSpartans:before {
+    background-position: -63px -1764px!important
+}
+
+.flair-NCAAMichiganTechHuskies:before {
+    background-position: -63px -1785px!important
+}
+
+.flair-NCAAMichiganWolverines:before {
+    background-position: -63px -1806px!important
+}
+
+.flair-NCAAMinnesotaDuluthBulldogs:before {
+    background-position: -63px -1827px!important
+}
+
+.flair-NCAAMinnesotaGoldenGophers:before {
+    background-position: -63px -1848px!important
+}
+
+.flair-NCAAMinnesotaStateMavericks:before {
+    background-position: -63px -1869px!important
+}
+
+.flair-NCAANebraskaOmahaMavericks:before {
+    background-position: -63px -1890px!important
+}
+
+.flair-NCAANewHampshireWildcats:before {
+    background-position: -63px -1911px!important
+}
+
+.flair-NCAANiagaraPurpleEagles:before {
+    background-position: -63px -1932px!important
+}
+
+.flair-NCAANorthDakotaFightingSioux:before {
+    background-position: -63px -1953px!important
+}
+
+.flair-NCAANortheasternHuskies:before {
+    background-position: -63px -1974px!important
+}
+
+.flair-NCAANorthernMichiganWildcats:before {
+    background-position: -63px -1995px!important
+}
+
+.flair-NCAANotreDameFightingIrish:before {
+    background-position: -84px 0!important
+}
+
+.flair-NCAAOhioStateBuckeyes:before {
+    background-position: -84px -21px!important
+}
+
+.flair-NCAAPennStateNittanyLions:before {
+    background-position: -63px -1617px!important
+}
+
+.flair-NCAAPrincetonTigers:before {
+    background-position: -84px -42px!important
+}
+
+.flair-NCAAProvidenceFriars:before {
+    background-position: -84px -63px!important
+}
+
+.flair-NCAAQuinnipiacBobcats:before {
+    background-position: -84px -84px!important
+}
+
+.flair-NCAARITTigers:before {
+    background-position: -84px -105px!important
+}
+
+.flair-NCAARPIEngineers:before {
+    background-position: -84px -126px!important
+}
+
+.flair-NCAARobertMorrisColonials:before {
+    background-position: -84px -147px!important
+}
+
+.flair-NCAASacredHeartPioneers:before {
+    background-position: -84px -168px!important
+}
+
+.flair-NCAAStCloudHuskies:before {
+    background-position: -84px -189px!important
+}
+
+.flair-NCAAStLawrenceSaints:before {
+    background-position: -84px -210px!important
+}
+
+.flair-NCAAUConnHuskies:before {
+    background-position: -84px -231px!important
+}
+
+.flair-NCAAUMassLowellRiverHawks:before {
+    background-position: -84px -252px!important
+}
+
+.flair-NCAAUMassMinutemen:before {
+    background-position: -84px -273px!important
+}
+
+.flair-NCAAArmyBlackKnights:before {
+    background-position: -84px -294px!important
+}
+
+.flair-NCAAUnionCollege:before {
+    background-position: -84px -315px!important
+}
+
+.flair-NCAAVermontCatamounts:before {
+    background-position: -84px -336px!important
+}
+
+.flair-NCAAWesternMichiganBroncos:before {
+    background-position: -84px -357px!important
+}
+
+.flair-NCAAWisconsinBadgers:before {
+    background-position: -84px -378px!important
+}
+
+.flair-NCAAYaleBulldogs:before {
+    background-position: -84px -399px!important
+}
+
+a[href="/r/austria"]:before,.flair-IIHFAustria:before {
+    background-position: -84px -1155px!important
+}
+
+.flair-IIHFBelarus:before {
+    background-position: -84px -420px!important
+}
+
+.flair-IIHFBelgium:before {
+    background-position: -84px -441px!important
+}
+
+.flair-IIHFCanada:before {
+    background-position: -84px -462px!important
+}
+
+a[href="/r/TeamCanada"]:before,.flair-IIHFCanada2014:before {
+    background-position: -84px -1135px!important
+}
+
+.flair-IIHFCanada2014Alt:before {
+    background-position: -84px -1375px!important
+}
+
+a[href="/r/czech"]:before,.flair-IIHFCzechRepublic:before {
+    background-position: -84px -483px!important
+}
+
+a[href$="/r/denmark"]:before {
+    background-position: -84px -1835px!important
+}
+
+.flair-IIHFFinland:before {
+    background-position: -84px -504px!important
+}
+
+a[href="/r/finland"]:before,.flair-IIHFFinland2014:before {
+    background-position: -84px -1115px!important
+}
+
+.flair-IIHFFinland2014Alt:before {
+    background-position: -84px -1235px!important
+}
+
+.flair-IIHFGermany:before {
+    background-position: -84px -525px!important
+}
+
+a[href="/r/unitedkingdom"]:before,.flair-IIHFGreatBritain:before {
+    background-position: -84px -1315px!important
+}
+
+a[href="/r/japan"]:before,.flair-IIHFJapan:before {
+    background-position: -84px -1295px!important
+}
+
+.flair-IIHFKazakhstan:before {
+    background-position: -84px -546px!important
+}
+
+.flair-IIHFLatvia:before {
+    background-position: -84px -567px!important
+}
+
+a[href="/r/latvia"]:before,.flair-IIHFLatvia2014:before {
+    background-position: -84px -1255px!important
+}
+
+.flair-IIHFNorway:before {
+    background-position: -84px -588px!important
+}
+
+a[href="/r/norway"]:before,.flair-IIHFNorway2014:before {
+    background-position: -84px -1175px!important
+}
+
+.flair-IIHFRussia:before {
+    background-position: -84px -609px!important
+}
+
+a[href="/r/russia"]:before,.flair-IIHFRussia2014:before {
+    background-position: -84px -1095px!important
+}
+
+.flair-IIHFRussia2014Alt:before {
+    background-position: -84px -1355px!important
+}
+
+a[href="/r/slovakia"]:before,.flair-IIHFSlovakia:before {
+    background-position: -84px -630px!important
+}
+
+a[href="/r/slovenia"]:before,.flair-IIHFSlovenia:before {
+    background-position: -84px -1275px!important
+}
+
+.flair-IIHFSweden:before {
+    background-position: -84px -651px!important
+}
+
+a[href="/r/sweden"]:before,.flair-IIHFSweden2014:before {
+    background-position: -84px -1215px!important
+}
+
+.flair-IIHFSwitzerland:before {
+    background-position: -84px -672px!important
+}
+
+a[href="/r/switzerland"]:before,.flair-IIHFSwitzerland2014:before {
+    background-position: -84px -1195px!important
+}
+
+.flair-IIHFUSA:before {
+    background-position: -84px -693px!important
+}
+
+a[href="/r/USAHockey"]:before,.flair-IIHFUSA2014:before {
+    background-position: -84px -1075px!important
+}
+
+.flair-IIHFUSA2014Alt:before {
+    background-position: -84px -1335px!important
+}
+
+a[href="/r/denmark"]:before,.flair-IIHFDenmark:before {
+    background-position: -84px -714px!important
+}
+
+.flair-IIHFDenmarkAlt-2:before {
+    background-position: -84px -1835px!important
+}
+
+.flair[class$="-2"]:before {
+    background-image: url("//b.thumbs.redditmedia.com/9YN8oTx3E9EcqiamA2VwFVHLvuLVaVx3zPM0thFpq4k.png")
+}
+
+.flair-EIHLBelfastGiants-2:before {
+    background-position: -84px -1435px!important
+}
+
+.flair-EIHLBraeheadClan-2:before {
+    background-position: -84px -1455px!important
+}
+
+.flair-EIHLCardiffDevils-2:before {
+    background-position: -84px -1475px!important
+}
+
+.flair-EIHLCoventryBlaze-2:before {
+    background-position: -84px -1495px!important
+}
+
+.flair-EIHLDundeeStars-2:before {
+    background-position: -84px -1515px!important
+}
+
+.flair-EIHLEdinburghCapitals-2:before {
+    background-position: -84px -1535px!important
+}
+
+.flair-EIHLFifeFlyers-2:before {
+    background-position: -84px -1555px!important
+}
+
+.flair-EIHLHullStingrays-2:before {
+    background-position: -84px -1575px!important
+}
+
+.flair-EIHLNottinghamPanthers-2:before {
+    background-position: -84px -1595px!important
+}
+
+.flair-EIHLSheffieldSteelers-2:before {
+    background-position: -84px -1615px!important
+}
+
+.flair-CHLAllenAmericans-2:before {
+    background-position: -84px -1635px!important
+}
+
+.flair-CHLArizonaSundogs-2:before {
+    background-position: -84px -1655px!important
+}
+
+.flair-CHLBramptonBeast-2:before {
+    background-position: -84px -1675px!important
+}
+
+.flair-CHLDenverCutthroats-2:before {
+    background-position: -84px -1695px!important
+}
+
+.flair-CHLMissouriMavericks-2:before {
+    background-position: -84px -1715px!important
+}
+
+.flair-CHLQuadCityMallards-2:before {
+    background-position: -84px -1735px!important
+}
+
+.flair-CHLRapidCityRush-2:before {
+    background-position: -84px -1755px!important
+}
+
+.flair-CHLStCharlesChill-2:before {
+    background-position: -84px -1775px!important
+}
+
+.flair-CHLTulsaOilers-2:before {
+    background-position: -84px -1795px!important
+}
+
+.flair-CHLWichitaThunder-2:before {
+    background-position: -84px -1815px!important
+}
+
+.flair-HAAIK:before {
+    background-position: -42px -1764px!important
+}
+
+.flair-HAAlmtunaIS-2:before {
+    background-position: -104px 0px!important
+}
+
+.flair-HAAsplovenHC-2:before {
+    background-position: -104px -20px!important
+}
+
+.flair-HAIFBjorkloven-2:before {
+    background-position: -104px -40px!important
+}
+
+.flair-HAKarlskronaHK-2:before {
+    background-position: -104px -60px!important
+}
+
+.flair-HABIKKarlskoga-2:before {
+    background-position: -104px -80px!important
+}
+
+.flair-HAIFMalmoRedhawks-2:before {
+    background-position: -104px -100px!important
+}
+
+.flair-HAMoraIK-2:before {
+    background-position: -104px -120px!important
+}
+
+.flair-HAIKOskarshamn-2:before {
+    background-position: -104px -140px!important
+}
+
+.flair-HARogleBK-2:before {
+    background-position: -104px -160px!important
+}
+
+.flair-HASodertaljeSK-2:before {
+    background-position: -104px -180px!important
+}
+
+.flair-HATimraIK:before {
+    background-position: -42px -1974px!important
+}
+
+.flair-HAVIKVasterasHK-2:before {
+    background-position: -104px -200px!important
+}
+
+.flair-HAHCVitaHasten-2:before {
+    background-position: -104px -220px!important
+}
+
+.flair-AIHLAdelaideAdrenaline-2:before {
+    background-position: -104px -240px!important
+}
+
+.flair-AIHLCBRBrave-2:before {
+    background-position: -104px -260px!important
+}
+
+.flair-AIHLMelbourneIce-2:before {
+    background-position: -104px -280px!important
+}
+
+.flair-AIHLMelbourneMustangs-2:before {
+    background-position: -104px -300px!important
+}
+
+.flair-AIHLNewcastleNorthStars-2:before {
+    background-position: -104px -320px!important
+}
+
+.flair-AIHLPerthThunder-2:before {
+    background-position: -104px -340px!important
+}
+
+.flair-AIHLSydneyBears-2:before {
+    background-position: -104px -360px!important
+}
+
+.flair-AIHLSydneyIceDogs-2:before {
+    background-position: -104px -380px!important
+}
+
+.flair-USHLCedarRapidsRoughriders-2:before {
+    background-position: -104px -400px!important
+}
+
+.flair-USHLChicagoSteel-2:before {
+    background-position: -104px -420px!important
+}
+
+.flair-USHLDubuqueFightingSaints-2:before {
+    background-position: -104px -440px!important
+}
+
+.flair-USHLGreenBayGamblers-2:before {
+    background-position: -104px -460px!important
+}
+
+.flair-USHLMuskegonLumberjacks-2:before {
+    background-position: -104px -480px!important
+}
+
+.flair-USHLUSNTDP:before {
+    background-position: -84px -693px!important
+}
+
+.flair-USHLYoungstownPhantoms-2:before {
+    background-position: -104px -500px!important
+}
+
+.flair-USHLDesMoinesBuccaneers-2:before {
+    background-position: -104px -520px!important
+}
+
+.flair-USHLFargoForce-2:before {
+    background-position: -104px -540px!important
+}
+
+.flair-USHLLincolnStars-2:before {
+    background-position: -104px -560px!important
+}
+
+.flair-USHLOmahaLancers-2:before {
+    background-position: -104px -580px!important
+}
+
+.flair-USHLSiouxCityMusketeers-2:before {
+    background-position: -104px -600px!important
+}
+
+.flair-USHLSiouxFallsStampede-2:before {
+    background-position: -104px -620px!important
+}
+
+.flair-USHLTri-CityStorm-2:before {
+    background-position: -104px -640px!important
+}
+
+.flair-USHLWaterlooBlackHawks-2:before {
+    background-position: -104px -660px!important
+}
+
+.flair-USHLMadisonCapitols-2:before {
+    background-position: -104px -680px!important
+}
+
+.flair-USHLBloomingtonThunder-2:before {
+    background-position: -104px -700px!important
+}
+
+.flair-USHLIndianaIce-2:before {
+    background-position: -104px -720px!important
+}
+
+.flair-CWHLBostonBlades-2:before {
+    background-position: -104px -800px!important
+}
+
+.flair-CWHLBramptonThunder-2:before {
+    background-position: -104px -820px!important
+}
+
+.flair-CWHLCalgaryInferno-2:before {
+    background-position: -104px -840px!important
+}
+
+.flair-CWHLMontrealStars-2:before {
+    background-position: -104px -860px!important
+}
+
+.flair-CWHLTorontoFuries-2:before {
+    background-position: -104px -880px!important
+}
+

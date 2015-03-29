@@ -1,0 +1,588 @@
+
+.flairselector .customizer {
+    display: none!important
+}
+
+.flair {
+    border: none!important;
+    padding: 0px;
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    display: inline-block
+}
+
+.flair-anaheim {
+    background-position: 0 0;
+    width: 20px;
+    height: 20px
+}
+
+.flair-boston {
+    background-position: 0 -40px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-buffalo {
+    background-position: 0 -80px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-calgary {
+    background-position: 0 -120px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-carolina {
+    background-position: 0 -160px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-chicago {
+    background-position: 0 -200px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-colorado {
+    background-position: 0 -240px;
+    width: 25px;
+    height: 25px
+}
+
+.flair-columbus {
+    background-position: 0 -285px;
+    width: 25px;
+    height: 25px
+}
+
+.flair-dallas {
+    background-position: 0 -330px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-detroit {
+    background-position: 0 -370px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-edmonton {
+    background-position: 0 -410px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-florida {
+    background-position: 0 -450px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-la {
+    background-position: 0 -490px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-minnesota {
+    background-position: 0 -530px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-montreal {
+    background-position: 0 -570px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-nashville {
+    background-position: 0 -610px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-newjersey {
+    background-position: 0 -650px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-nyi {
+    background-position: 0 -690px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-nyr {
+    background-position: 0 -730px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-ottawa {
+    background-position: 0 -770px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-philadelphia {
+    background-position: 0 -810px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-phoenix {
+    background-position: 0 -850px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-pittsburgh {
+    background-position: 0 -890px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-sanjose {
+    background-position: 0 -930px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-stlouis {
+    background-position: 0 -970px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-tampabay {
+    background-position: 0 -1010px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-toronto {
+    background-position: 0 -1050px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-vancouver {
+    background-position: 0 -1090px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-washington {
+    background-position: 0 -1130px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-winnipeg {
+    background-position: 0 -1170px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-x-atlanta {
+    background-position: 0 -1210px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-x-hartford {
+    background-position: 0 -1250px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-x-quebec {
+    background-position: 0 -1290px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-y-east {
+    background-position: 0 -1330px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-y-west {
+    background-position: 0 -1370px;
+    width: 20px;
+    height: 20px
+}
+
+.flair-z-nhl {
+    background-position: 0 -1410px;
+    width: 20px;
+    height: 20px
+}
+
+a[href="http://www.reddit.com/r/anaheimducks"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/bluejackets"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -285px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/bostonbruins"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -40px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/calgaryflames"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -120px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/canes"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -160px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/caps"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -1130px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/coloradoavalanche"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -240px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/coyotes"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -850px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/dallasstars"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -330px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/detroitredwings"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -370px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/devils"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -650px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/edmontonoilers"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -410px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/floridapanthers"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -450px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/flyers"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -810px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/habs"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -570px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/hawks"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -200px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/leafs"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -1050px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/newyorkislanders"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -690px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/penguins"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -890px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/predators"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -610px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/losangeleskings"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -490px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/ottawasenators"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -770px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/rangers"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -730px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/sabres"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -80px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/sanjosesharks"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -930px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/stlouisblues"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -970px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/tampabaylightning"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -1010px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/canucks"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -1090px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/wildhockey"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -530px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+
+a[href="http://www.reddit.com/r/winnipegjets"] {
+    background: url("//b.thumbs.redditmedia.com/01ORQncv7xzBmk7C.png") no-repeat -9999px -9999px;
+    background-repeat: no-repeat;
+    background-position: 0 -1170px;
+    width: 20px;
+    height: 20px;
+    z-index: 500;
+    text-indent: -9999px;
+    display: inline-block;
+    position: relative
+}
+

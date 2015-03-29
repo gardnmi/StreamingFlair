@@ -1,0 +1,200 @@
+
+
+.flair:before {
+    content: "";
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url("//b.thumbs.redditmedia.com/GQ3Tx47RZRP6GZzy.png")!important;
+    vertical-align: middle;
+    margin-right: 4px
+}
+
+.flair {
+    width: 20px;
+    height: 20px;
+    line-height: 16px;
+    overflow: hidden;
+    vertical-align: middle;
+    font-size: inherit;
+    background-color: transparent;
+    color: #222;
+    padding: 2px;
+    margin-right: 3px;
+    border-width: 0;
+    border-radius: 3px
+}
+
+
+
+
+
+.flair-twitter:before {
+    background-image: url("//d.thumbs.redditmedia.com/pZeG2ac44QHXudYc.png")!important;
+    background-position: 0 0
+}
+
+a[href$="/r/buffalobills"]:before,a[href$="/r/panthers"]:before,a[href$="/r/chibears"]:before,a[href$="/r/cinbengals"]:before,a[href$="/r/bengals"]:before,a[href$="/r/browns"]:before,a[href$="/r/cowboys"]:before,a[href$="/r/denverbroncos"]:before,a[href$="/r/detroitlions"]:before,a[href$="/GB"]:before,a[href$="/r/greenbaypackers"]:before,a[href$="/r/texans"]:before,a[href$="/r/colts"]:before,a[href$="/r/jaguars"]:before,a[href$="/r/kansascitychiefs"]:before,a[href$="/r/miamidolphins"]:before,a[href$="/r/minnesotavikings"]:before,a[href$="/r/patriots"]:before,a[href$="/r/saints"]:before,a[href$="/r/nygiants"]:before,a[href$="/r/nyjets"]:before,a[href$="/r/oaklandraiders"]:before,a[href$="/r/eagles"]:before,a[href$="/r/steelers"]:before,a[href$="/r/chargers"]:before,a[href$="/r/49ers"]:before,a[href$="/r/azcardinals"]:before,a[href$="/r/seahawks"]:before,a[href$="/r/saintlouisrams"]:before,a[href$="/r/stlouisrams"]:before,a[href$="/r/buccaneers"]:before,a[href$="/r/tntitans"]:before,a[href$="r/tennesseetitans"]:before,a[href$="/r/redskins"]:before,a[href$="/r/nfl"]:before,a[href$="/r/falcons"]:before,a[href$="/r/ravens"]:before,a[href="/BUF"]:before,a[href="/CAR"]:before,a[href="/CHI"]:before,a[href="/CIN"]:before,a[href="/CLE"]:before,a[href="/DAL"]:before,a[href="/DEN"]:before,a[href="/DET"]:before,a[href="/HOU"]:before,a[href="/IND"]:before,a[href="/JAC"]:before,a[href="/KC"]:before,a[href="/MIA"]:before,a[href="/MIN"]:before,a[href="/NE"]:before,a[href="/NO"]:before,a[href="/NYG"]:before,a[href="/NYJ"]:before,a[href="/OAK"]:before,a[href="/ARI"]:before,a[href="/PHI"]:before,a[href="/PIT"]:before,a[href="/SD"]:before,a[href="/SF"]:before,a[href="/SEA"]:before,a[href="/STL"]:before,a[href="/TB"]:before,a[href="/TEN"]:before,a[href="/WAS"]:before,a[href="/ATL"]:before,a[href="/NFC"]:before,a[href="/AFC"]:before,a[href="/NFL"]:before,a[href="/OIL"]:before,a[href="/BAL"]:before {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url("//b.thumbs.redditmedia.com/GQ3Tx47RZRP6GZzy.png")!important;
+    background-position: -9999px -9999px;
+    vertical-align: middle;
+    margin-right: 3px;
+    content: ""
+}
+
+.flair-cardinals:before,a[href$="/r/azcardinals"]:before,a[href$="/r/azcardinals"]:nth-of-type(n):before,a[href="/ARI"]:before,a[href="/ARI"]:nth-of-type(n):before {
+    background-position: 0 0!important
+}
+
+.flair-falcons:before,a[href$="/r/falcons"]:before,a[href$="/r/falcons"]:nth-of-type(n):before,a[href="/ATL"]:before,a[href="/ATL"]:nth-of-type(n):before {
+    background-position: 0 -20px!important
+}
+
+.flair-ravens:before,a[href$="/r/ravens"]:before,a[href$="/r/ravens"]:nth-of-type(n):before,a[href="/BAL"]:before,a[href="/BAL"]:nth-of-type(n):before {
+    background-position: 0 -40px!important
+}
+
+.flair-bills:before,a[href$="/r/buffalobills"]:before,a[href$="/r/buffalobills"]:nth-of-type(n):before,a[href="/BUF"]:before,a[href="/BUF"]:nth-of-type(n):before {
+    background-position: 0 -60px!important
+}
+
+.flair-panthers:before,a[href$="/r/panthers"]:before,a[href$="/r/panthers"]:nth-of-type(n):before,a[href="/CAR"]:before,a[href="/CAR"]:nth-of-type(n):before {
+    background-position: 0 -80px!important
+}
+
+.flair-bears:before,a[href$="/r/chibears"]:before,a[href$="/r/chibears"]:nth-of-type(n):before,a[href="/CHI"]:before,a[href="/CHI"]:nth-of-type(n):before {
+    background-position: 0 -100px!important
+}
+
+.flair-bengals:before,a[href$="/r/cinbengals"]:before,a[href$="/r/cinbengals"]:nth-of-type(n):before,a[href$="/r/bengals"]:before,a[href$="/r/bengals"]:nth-of-type(n):before,a[href="/CIN"]:before,a[href="/CIN"]:nth-of-type(n):before {
+    background-position: 0 -120px!important
+}
+
+.flair-browns:before,a[href$="/r/browns"]:before,a[href$="/r/browns"]:nth-of-type(n):before,a[href="/CLE"]:before,a[href="/CLE"]:nth-of-type(n):before {
+    background-position: 0 -140px!important
+}
+
+a[href$="/r/cowboys"]:before,a[href$="/r/cowboys"]:nth-of-type(n):before,a[href="/DAL"]:before,a[href="/DAL"]:nth-of-type(n):before {
+    background-position: 0 -160px
+}
+
+.flair-cowboys:before {
+    background-position: 0 -160px!important
+}
+
+.flair-broncos:before,a[href$="/r/denverbroncos"]:before,a[href$="/r/denverbroncos"]:nth-of-type(n):before,a[href="/DEN"]:before,a[href="/DEN"]:nth-of-type(n):before {
+    background-position: 0 -180px!important
+}
+
+.flair-lions:before,a[href$="/r/detroitlions"]:before,a[href$="/r/detroitlions"]:nth-of-type(n):before,a[href="/DET"]:before,a[href="/DET"]:nth-of-type(n):before {
+    background-position: 0 -200px!important
+}
+
+.flair-packers:before,a[href$="/r/greenbaypackers"]:before,a[href$="/r/greenbaypackers"]:nth-of-type(n):before,a[href="/GB"]:before,a[href="/GB"]:nth-of-type(n):before {
+    background-position: 0 -220px!important
+}
+
+.flair-texans:before,a[href$="/r/texans"]:before,a[href$="/r/texans"]:nth-of-type(n):before,a[href="/HOU"]:before,a[href="/HOU"]:nth-of-type(n):before {
+    background-position: 0 -240px!important
+}
+
+.flair-colts:before,a[href$="/r/colts"]:before,a[href$="/r/colts"]:nth-of-type(n):before,a[href="/IND"]:before,a[href="/IND"]:nth-of-type(n):before {
+    background-position: 0 -260px!important
+}
+
+.flair-jaguars:before,a[href$="/r/jaguars"]:before,a[href$="/r/jaguars"]:nth-of-type(n):before,a[href="/JAC"]:before,a[href="/JAC"]:nth-of-type(n):before {
+    background-position: 0 -280px!important
+}
+
+.flair-chiefs:before,a[href$="/r/kansascitychiefs"]:before,a[href$="/r/kansascitychiefs"]:nth-of-type(n):before,a[href="/KC"]:before,a[href="/KC"]:nth-of-type(n):before {
+    background-position: 0 -300px!important
+}
+
+.flair-dolphins:before,a[href$="/r/miamidolphins"]:before,a[href$="/r/miamidolphins"]:nth-of-type(n):before,a[href="/MIA"]:before,a[href="/MIA"]:nth-of-type(n):before {
+    background-position: 0 -320px!important
+}
+
+.flair-vikings:before,a[href$="/r/minnesotavikings"]:before,a[href$="/r/minnesotavikings"]:nth-of-type(n):before,a[href="/MIN"]:before,a[href="/MIN"]:nth-of-type(n):before {
+    background-position: 0 -340px!important
+}
+
+.flair-patriots:before,a[href$="/r/patriots"]:before,a[href$="/r/patriots"]:nth-of-type(n):before,a[href="/NE"]:before,a[href="/NE"]:nth-of-type(n):before {
+    background-position: 0 -360px!important
+}
+
+.flair-saints:before,a[href$="/r/saints"]:before,a[href$="/r/saints"]:nth-of-type(n):before,a[href="/NO"]:before,a[href="/NO"]:nth-of-type(n):before {
+    background-position: 0 -380px!important
+}
+
+.flair-giants:before,a[href$="/r/nygiants"]:before,a[href$="/r/nygiants"]:nth-of-type(n):before,a[href="/NYG"]:before,a[href="/NYG"]:nth-of-type(n):before {
+    background-position: 0 -400px!important
+}
+
+.flair-jets:before,a[href$="/r/nyjets"]:before,a[href$="/r/nyjets"]:nth-of-type(n):before,a[href="/NYJ"]:before,a[href="/NYJ"]:nth-of-type(n):before {
+    background-position: 0 -420px!important
+}
+
+.flair-raiders:before,a[href$="/r/oaklandraiders"]:before,a[href$="/r/oaklandraiders"]:nth-of-type(n):before,a[href="/OAK"]:before,a[href="/OAK"]:nth-of-type(n):before {
+    background-position: 0 -440px!important
+}
+
+.flair-eagles:before,a[href$="/r/eagles"]:before,a[href$="/r/eagles"]:nth-of-type(n):before,a[href="/PHI"]:before,a[href="/PHI"]:nth-of-type(n):before {
+    background-position: 0 -460px!important
+}
+
+.flair-steelers:before,a[href$="/r/steelers"]:before,a[href$="/r/steelers"]:nth-of-type(n):before,a[href="/PIT"]:before,a[href="/PIT"]:nth-of-type(n):before {
+    background-position: 0 -480px!important
+}
+
+.flair-chargers:before,a[href$="/r/chargers"]:before,a[href$="/r/chargers"]:nth-of-type(n):before,a[href="/SD"]:before,a[href="/SD"]:nth-of-type(n):before {
+    background-position: 0 -500px!important
+}
+
+.flair-fortyniners:before,a[href$="/r/49ers"]:before,a[href$="/r/49ers"]:nth-of-type(n):before,a[href="/SF"]:before,a[href="/SF"]:nth-of-type(n):before {
+    background-position: 0 -520px!important
+}
+
+.flair-seahawks:before,a[href$="/r/seahawks"]:before,a[href$="/r/seahawks"]:nth-of-type(n):before,a[href="/SEA"]:before,a[href="/SEA"]:nth-of-type(n):before {
+    background-position: 0 -540px!important
+}
+
+.flair-rams:before,a[href$="/r/saintlouisrams"]:before,a[href$="/r/saintlouisrams"]:nth-of-type(n):before,a[href$="/r/stlouisrams"]:before,a[href$="/r/stlouisrams"]:nth-of-type(n):before,a[href="/STL"]:before,a[href="/STL"]:nth-of-type(n):before {
+    background-position: 0 -560px!important
+}
+
+.flair-buccaneers:before,a[href$="/r/buccaneers"]:before,a[href$="/r/buccaneers"]:nth-of-type(n):before,a[href="/TB"]:before,a[href="/TB"]:nth-of-type(n):before {
+    background-position: 0 -580px!important
+}
+
+.flair-titans:before,a[href$="/r/tntitans"]:before,a[href$="/r/tntitans"]:nth-of-type(n):before,a[href$="/r/tennesseetitans"]:before,a[href$="/r/tennesseetitans"]:nth-of-type(n):before,a[href="/TEN"]:before,a[href="/TEN"]:nth-of-type(n):before {
+    background-position: 0 -600px!important
+}
+
+.flair-redskins:before,a[href$="/r/redskins"]:before,a[href$="/r/redskins"]:nth-of-type(n):before,a[href="/WAS"]:before,a[href="/WAS"]:nth-of-type(n):before {
+    background-position: 0 -620px!important
+}
+
+.flair-nfl:before,a[href$="/r/nfl"]:before,a[href$="/r/nfl"]:nth-of-type(n):before,a[href="/NFL"]:before,a[href="/NFL"]:nth-of-type(n):before {
+    background-position: 0 -640px!important
+}
+
+.flair-nfc:before,.sitetable a[href="/NFC"]:before,.sitetable a[href="/NFC"]:nth-of-type(n):before {
+    background-position: 0 -660px!important
+}
+
+.flair-afc:before,.sitetable a[href="/AFC"]:before,.sitetable a[href="/AFC"]:nth-of-type(n):before {
+    background-position: 0 -680px!important
+}
+
+.flair-oilers:before,.sitetable a[href="/OIL"]:before,.sitetable a[href="/OIL"]:nth-of-type(n):before,a[href$="/r/tntitans"]:before,a[href$="/r/tntitans"]:nth-of-type(n):before,a[href$="/r/tennesseetitans"]:before,a[href$="/r/tennesseetitans"]:nth-of-type(n):before {
+    background-position: 0 -600px!important
+}
+
+.flair-NoFlair:before,.sitetable a[href="/none"]:before,.sitetable a[href="/none"]:nth-of-type(n):before,a[href$="/r/none"]:before,a[href$="/r/none"]:nth-of-type(n):before,a[href$="/r/none"]:before,a[href$="/r/none"]:nth-of-type(n):before {
+    background-position: 0 800px!important
+}

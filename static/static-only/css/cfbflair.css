@@ -1,0 +1,2962 @@
+.flair,a[href^="#f/"],a[href^="#l/"],a[href^="#i/"],a[href*="?header"] {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    vertical-align: middle;
+    display: inline-block;
+    color: transparent;
+    height: 20px;
+    margin: 0
+}
+
+.flair {
+    width: 0;
+    background: transparent
+}
+
+a[href^="#f/"],a[href^="#l/"],a[href^="#i/"],a[href*="?header"] {
+    background: transparent;
+    width: 30px;
+    font-size: 3px
+}
+
+.flair:before,.flair:after,a[href^="#f/"]:before,a[href^="#l/"]:before,a[href*="?header"]:before {
+    width: 30px
+}
+
+a[href^="#i/"] {
+    width: 60px;
+    height: 60px;
+    font-size: 3px
+}
+
+a[href^="#i/"]:before {
+    width: 60px;
+    height: 60px
+}
+
+.flair,.link .flair {
+    position: absolute;
+    width: auto;
+    background: transparent
+}
+
+a[href*="row02"]:before,.flair[class*="row02"]:before,.flair[class*="2rw02"]:after {
+    background: 0 -35px
+}
+
+a[href*="row03"]:before,.flair[class*="row03"]:before,.flair[class*="2rw03"]:after {
+    background: 0 -65px
+}
+
+a[href*="row04"]:before,.flair[class*="row04"]:before,.flair[class*="2rw04"]:after {
+    background: 0 -95px
+}
+
+a[href*="row05"]:before,.flair[class*="row05"]:before,.flair[class*="2rw05"]:after {
+    background: 0 -125px
+}
+
+a[href*="row06"]:before,.flair[class*="row06"]:before,.flair[class*="2rw06"]:after {
+    background: 0 -155px
+}
+
+a[href*="row07"]:before,.flair[class*="row07"]:before,.flair[class*="2rw07"]:after {
+    background: 0 -185px
+}
+
+a[href*="row08"]:before,.flair[class*="row08"]:before,.flair[class*="2rw08"]:after {
+    background: 0 -215px
+}
+
+a[href*="row09"]:before,.flair[class*="row09"]:before,.flair[class*="2rw09"]:after {
+    background: 0 -245px
+}
+
+a[href*="row10"]:before,.flair[class*="row10"]:before,.flair[class*="2rw10"]:after {
+    background: 0 -275px
+}
+
+a[href*="row11"]:before,.flair[class*="row11"]:before,.flair[class*="2rw11"]:after {
+    background: 0 -305px
+}
+
+a[href*="row12"]:before,.flair[class*="row12"]:before,.flair[class*="2rw12"]:after {
+    background: 0 -335px
+}
+
+a[href*="row13"]:before,.flair[class*="row13"]:before,.flair[class*="2rw13"]:after {
+    background: 0 -365px
+}
+
+a[href*="row14"]:before,.flair[class*="row14"]:before,.flair[class*="2rw14"]:after {
+    background: 0 -395px
+}
+
+a[href*="row15"]:before,.flair[class*="row15"]:before,.flair[class*="2rw15"]:after {
+    background: 0 -425px
+}
+
+a[href*="row16"]:before,.flair[class*="row16"]:before,.flair[class*="2rw16"]:after {
+    background: 0 -455px
+}
+
+a[href*="row17"]:before,.flair[class*="row17"]:before,.flair[class*="2rw17"]:after {
+    background: 0 -485px
+}
+
+a[href*="row18"]:before,.flair[class*="row18"]:before,.flair[class*="2rw18"]:after {
+    background: 0 -515px
+}
+
+a[href*="row19"]:before,.flair[class*="row19"]:before,.flair[class*="2rw19"]:after {
+    background: 0 -545px
+}
+
+a[href*="row20"]:before,.flair[class*="row20"]:before,.flair[class*="2rw20"]:after {
+    background: 0 -575px
+}
+
+a[href*="row21"]:before,.flair[class*="row21"]:before,.flair[class*="2rw21"]:after {
+    background: 0 -605px
+}
+
+a[href*="row22"]:before,.flair[class*="row22"]:before,.flair[class*="2rw22"]:after {
+    background: 0 -635px
+}
+
+a[href*="row23"]:before,.flair[class*="row23"]:before,.flair[class*="2rw23"]:after {
+    background: 0 -665px
+}
+
+a[href*="row24"]:before,.flair[class*="row24"]:before,.flair[class*="2rw24"]:after {
+    background: 0 -695px
+}
+
+a[href*="row25"]:before,.flair[class*="row25"]:before,.flair[class*="2rw25"]:after {
+    background: 0 -725px
+}
+
+a[href*="row26"]:before,.flair[class*="row26"]:before,.flair[class*="2rw26"]:after {
+    background: 0 -755px
+}
+
+a[href*="row27"]:before,.flair[class*="row27"]:before,.flair[class*="2rw27"]:after {
+    background: 0 -785px
+}
+
+a[href*="row28"]:before,.flair[class*="row28"]:before,.flair[class*="2rw28"]:after {
+    background: 0 -815px
+}
+
+a[href*="row29"]:before,.flair[class*="row29"]:before,.flair[class*="2rw29"]:after {
+    background: 0 -845px
+}
+
+a[href*="row30"]:before,.flair[class*="row30"]:before,.flair[class*="2rw30"]:after {
+    background: 0 -875px
+}
+
+a[href*="row31"]:before,.flair[class*="row31"]:before,.flair[class*="2rw31"]:after {
+    background: 0 -905px
+}
+
+a[href*="row32"]:before,.flair[class*="row32"]:before,.flair[class*="2rw32"]:after {
+    background: 0 -935px
+}
+
+a[href*="row33"]:before,.flair[class*="row33"]:before,.flair[class*="2rw33"]:after {
+    background: 0 -965px
+}
+
+a[href*="row34"]:before,.flair[class*="row34"]:before,.flair[class*="2rw34"]:after {
+    background: 0 -995px
+}
+
+a[href*="row35"]:before,.flair[class*="row35"]:before,.flair[class*="2rw35"]:after {
+    background: 0 -1025px
+}
+
+a[href*="row36"]:before,.flair[class*="row36"]:before,.flair[class*="2rw36"]:after {
+    background: 0 -1055px
+}
+
+a[href*="row37"]:before,.flair[class*="row37"]:before,.flair[class*="2rw37"]:after {
+    background: 0 -1085px
+}
+
+a[href*="row38"]:before,.flair[class*="row38"]:before,.flair[class*="2rw38"]:after {
+    background: 0 -1115px
+}
+
+a[href*="row39"]:before,.flair[class*="row39"]:before,.flair[class*="2rw39"]:after {
+    background: 0 -1145px
+}
+
+a[href*="row40"]:before,.flair[class*="row40"]:before,.flair[class*="2rw40"]:after {
+    background: 0 -1175px
+}
+
+a[href*="col02"]:before,.flair[class*="col02"]:before,.flair[class*="2cl02"]:after,.flair:after {
+    width: 80px;
+    clip: rect(0,80px,20px,40px);
+    margin-left: -40px
+}
+
+a[href*="col01"]:before,.flair[class*="col01"]:before,.flair[class*="2cl01"]:after {
+    width: 40px;
+    clip: rect(0,40px,20px,0px);
+    margin-left: 0
+}
+
+a[href*="col03"]:before,.flair[class*="col03"]:before,.flair[class*="2cl03"]:after {
+    width: 120px;
+    clip: rect(0,120px,20px,80px);
+    margin-left: -80px
+}
+
+a[href*="col04"]:before,.flair[class*="col04"]:before,.flair[class*="2cl04"]:after {
+    width: 160px;
+    clip: rect(0,160px,20px,120px);
+    margin-left: -120px
+}
+
+a[href*="col05"]:before,.flair[class*="col05"]:before,.flair[class*="2cl05"]:after {
+    width: 200px;
+    clip: rect(0,200px,20px,160px);
+    margin-left: -160px
+}
+
+a[href*="col06"]:before,.flair[class*="col06"]:before,.flair[class*="2cl06"]:after {
+    width: 240px;
+    clip: rect(0,240px,20px,200px);
+    margin-left: -200px
+}
+
+a[href*="col07"]:before,.flair[class*="col07"]:before,.flair[class*="2cl07"]:after {
+    width: 280px;
+    clip: rect(0,280px,20px,240px);
+    margin-left: -240px
+}
+
+a[href*="col08"]:before,.flair[class*="col08"]:before,.flair[class*="2cl08"]:after {
+    width: 320px;
+    clip: rect(0,320px,20px,280px);
+    margin-left: -280px
+}
+
+a[href*="col09"]:before,.flair[class*="col09"]:before,.flair[class*="2cl09"]:after {
+    width: 360px;
+    clip: rect(0,360px,20px,320px);
+    margin-left: -320px
+}
+
+a[href*="col10"]:before,.flair[class*="col10"]:before,.flair[class*="2cl10"]:after {
+    width: 400px;
+    clip: rect(0,400px,20px,360px);
+    margin-left: -360px
+}
+
+a[href*="col11"]:before,.flair[class*="col11"]:before,.flair[class*="2cl11"]:after {
+    width: 440px;
+    clip: rect(0,440px,20px,400px);
+    margin-left: -400px
+}
+
+a[href*="col12"]:before,.flair[class*="col12"]:before,.flair[class*="2cl12"]:after {
+    width: 480px;
+    clip: rect(0,480px,20px,440px);
+    margin-left: -440px
+}
+
+a[href*="col13"]:before,.flair[class*="col13"]:before,.flair[class*="2cl13"]:after {
+    width: 520px;
+    clip: rect(0,520px,20px,480px);
+    margin-left: -480px
+}
+
+a[href*="col14"]:before,.flair[class*="col14"]:before,.flair[class*="2cl14"]:after {
+    width: 560px;
+    clip: rect(0,560px,20px,520px);
+    margin-left: -520px
+}
+
+a[href*="col15"]:before,.flair[class*="col15"]:before,.flair[class*="2cl15"]:after {
+    width: 600px;
+    clip: rect(0,600px,20px,560px);
+    margin-left: -560px
+}
+
+a[href*="col16"]:before,.flair[class*="col16"]:before,.flair[class*="2cl16"]:after {
+    width: 640px;
+    clip: rect(0,640px,20px,600px);
+    margin-left: -600px
+}
+
+a[href*="col17"]:before,.flair[class*="col17"]:before,.flair[class*="2cl17"]:after {
+    width: 680px;
+    clip: rect(0,680px,20px,640px);
+    margin-left: -640px
+}
+
+a[href*="col18"]:before,.flair[class*="col18"]:before,.flair[class*="2cl18"]:after {
+    width: 720px;
+    clip: rect(0,720px,20px,680px);
+    margin-left: -680px
+}
+
+a[href*="col19"]:before,.flair[class*="col19"]:before,.flair[class*="2cl19"]:after {
+    width: 760px;
+    clip: rect(0,760px,20px,720px);
+    margin-left: -720px
+}
+
+a[href*="col20"]:before,.flair[class*="col20"]:before,.flair[class*="2cl20"]:after {
+    width: 800px;
+    clip: rect(0,800px,20px,760px);
+    margin-left: -760px
+}
+
+a[href*="col21"]:before,.flair[class*="col21"]:before,.flair[class*="2cl21"]:after {
+    width: 840px;
+    clip: rect(0,840px,20px,800px);
+    margin-left: -800px
+}
+
+a[href*="col22"]:before,.flair[class*="col22"]:before,.flair[class*="2cl22"]:after {
+    width: 880px;
+    clip: rect(0,880px,20px,840px);
+    margin-left: -840px
+}
+
+a[href*="col23"]:before,.flair[class*="col23"]:before,.flair[class*="2cl23"]:after {
+    width: 920px;
+    clip: rect(0,920px,20px,880px);
+    margin-left: -880px
+}
+
+a[href*="col24"]:before,.flair[class*="col24"]:before,.flair[class*="2cl24"]:after {
+    width: 960px;
+    clip: rect(0,960px,20px,920px);
+    margin-left: -920px
+}
+
+a[href*="col25"]:before,.flair[class*="col25"]:before,.flair[class*="2cl25"]:after {
+    width: 1000px;
+    clip: rect(0,1000px,20px,960px);
+    margin-left: -960px
+}
+
+a[href*="col26"]:before,.flair[class*="col26"]:before,.flair[class*="2cl26"]:after {
+    width: 1040px;
+    clip: rect(0,1040px,20px,1000px);
+    margin-left: -1000px
+}
+
+a[href*="col27"]:before,.flair[class*="col27"]:before,.flair[class*="2cl27"]:after {
+    width: 1080px;
+    clip: rect(0,1080px,20px,1040px);
+    margin-left: -1040px
+}
+
+a[href*="col28"]:before,.flair[class*="col28"]:before,.flair[class*="2cl28"]:after {
+    width: 1120px;
+    clip: rect(0,1120px,20px,1080px);
+    margin-left: -1080px
+}
+
+a[href*="col29"]:before,.flair[class*="col29"]:before,.flair[class*="2cl29"]:after {
+    width: 1160px;
+    clip: rect(0,1160px,20px,1120px);
+    margin-left: -1120px
+}
+
+a[href*="col30"]:before,.flair[class*="col30"]:before,.flair[class*="2cl30"]:after {
+    width: 1200px;
+    clip: rect(0,1200px,20px,1160px);
+    margin-left: -1160px
+}
+
+a[href*="sheet1"]:before,.flair[class*="sheet1"]:before,.flair[class*="2sht1"]:after,.flair:before,.flair:after,a[href^="#f/"]:before,a[href^="#l/"]:before,a[href^="#i/"]:before,a[href*="?header"]:before {
+    content: "";
+    background-image: url("//b.thumbs.redditmedia.com/ZSWMMQK0CL1-Ci9SH_s_JDg46-KY5KABsYdV7itDAlw.png");
+    height: 20px;
+    position: absolute;
+    color: transparent
+}
+
+a[href*="sheet2"]:before,.flair[class*="sheet2"]:before,.flair[class*="2sht2"]:after,a[href="#f/j"]:before {
+    background-image: url("//a.thumbs.redditmedia.com/Vk2NZl4UCetlgJMmGuV7ipvKatmFdVy51Udnyviu_n4.png")
+}
+
+a[href*="sheet3"]:before,.flair[class*="sheet3"]:before,.flair[class*="2sht3"]:after,a[href="#f/b"]:before,a[href="#f/k"]:before,a[href="#f/l"]:before {
+    background-image: url("//b.thumbs.redditmedia.com/IjxoegBn1JH6lPqcC-5u2XYaEq5DtdlL_7QtiCL1E9c.png")
+}
+
+a[href*="sheet4"]:before,.flair[class*="sheet4"]:before,.flair[class*="2sht4"]:after,a[href="#f/f"]:before {
+    background-image: url("//b.thumbs.redditmedia.com/WyuGh2LlGrwK8N3m39Bl5jwT2ssMr2LsjWx06-zFvbw.png")
+}
+
+a[href*="sheet5"]:before,.flair[class*="sheet5"]:before,.flair[class*="2sht5"]:after,a[href="#f/q"]:before,a[href="#f/x"]:before {
+    background-image: url("//b.thumbs.redditmedia.com/Auvx1CrhQs_ws2IWArnOZBJGC1KYmpUltLOImRU4tdA.png")
+}
+
+a[href*="sheet6"]:before,.flair[class*="sheet6"]:before,.flair[class*="2sht6"]:after {
+    background-image: url("//a.thumbs.redditmedia.com/jgheyR4AWg-12KHB8WBj9Onw1xGtf0FYEf04kipXEy4.png")
+}
+
+a[href*="sheetl"]:before,.flair[class*="sheetl"]:before,.flair[class*="2shtl"]:after,a[href^="#l/"]:before,a[href*="?header"]:before {
+    background-image: url("//b.thumbs.redditmedia.com/jSjdWAgXYrD-0UTCqiQo9NB2ZW5feeMs9hEtlIQYbrw.png")
+}
+
+a[href*="sheeti"]:before,a[href^="#i/"]:before {
+    height: 60px;
+    background-image: url("//b.thumbs.redditmedia.com/-NZmwKE6IuhURTt-gG1dB5Fnfo4D250CGQTz5QEZpbw.png")
+}
+
+.flair {
+    margin-top: -18px
+}
+
+.flair:before,.flair:after {
+    margin-top: 15px
+}
+
+.commentarea .entry .flair {
+    margin-top: -9px
+}
+
+.commentarea .entry .flair:hover {
+    margin-top: -18px
+}
+
+.commentarea .entry .flair:before,.commentarea .entry .flair:after {
+    margin-top: 6px
+}
+
+.commentarea .entry .flair:hover:before,.commentarea .entry .flair:hover:after {
+    margin-top: 15px
+}
+
+.flair:after {
+    left: 32px
+}
+
+.flair:after {
+    display: none
+}
+
+.commentarea .entry .flair:after,.titlebox .tagline .flair:after {
+    display: inline-block
+}
+
+.commentarea .entry .flair {
+    font-size: 3px
+}
+
+.commentarea .entry .flair:hover {
+    color: #0C0F0B;
+    font-size: 12px
+}
+
+.comment .author,.wiki-page-content em .author {
+    margin-left: 0
+}
+
+.comment .flair+.author,.wiki-page-content em .flair+.author {
+    margin-left: 32px
+}
+
+.comment .flair[class*="2sht"]+.author,.wiki-page-content em .flair[class*="2sht"]+.author {
+    margin-left: 66px
+}
+
+.link .flair {
+    margin: -17px 0 0 0;
+    font-size: 0
+}
+
+.link .flair+.author {
+    margin-left: 35px
+}
+
+.sidecontentbox .author {
+    height: 20px;
+    display: inline-block;
+    padding-left: 35px
+}
+
+.sidecontentbox .flair {
+    margin-left: 0;
+    font-size: 0
+}
+
+.sidecontentbox a.helplink {
+    margin-top: 0
+}
+
+.RESUserTag,.author {
+    position: relative
+}
+
+.titlebox .tagline {
+    color: transparent;
+    height: 0;
+    margin: 0
+}
+
+.titlebox .tagline a {
+    display: none
+}
+
+.titlebox .tagline .flair {
+    display: inline;
+    left: 160px;
+    position: relative;
+    font-size: 0;
+    margin-left: 0
+}
+
+.titlebox .tagline .flair:before,.titlebox .tagline .flair:after {
+    margin-top: 5px
+}
+
+.titlebox .tagline .flair:after {
+    left: 30px
+}
+
+.flairtoggle {
+    height: 0
+}
+
+#flair_enabled {
+    margin: 10px 0 0 140px
+}
+
+#flair_enabled:hover:before {
+    position: relative;
+    width: 69px;
+    display: inline-block;
+    border: 1px solid;
+    padding: 1px;
+    margin: 0 0 0 -75px;
+    font-size: 10px;
+    font-weight: normal;
+    background-color: rgba(255,255,0,.8);
+    color: #0C0F0B;
+    content: "Show/hide flair"
+}
+
+.flairtoggle label {
+    font-size: 0
+}
+
+td[align="right"] a[href^="#i/"] {
+    margin-left: -60px;
+    margin-right: 60px
+}
+
+td[align="right"] a[href^="#f/"],td[align="right"] a[href^="#l/"],td[align="center"] a[href^="#i/"] {
+    margin-left: -30px;
+    margin-right: 30px
+}
+
+td[align="center"] a[href^="#f/"],td[align="center"] a[href^="#l/"],.side li a[href^="#l/"] {
+    margin-left: -15px;
+    margin-right: 15px
+}
+
+.tagline.flaircell {
+    margin-left: 50px
+}
+
+.res-nightmode .flair {
+    color: transparent!important;
+    background-color: transparent!important
+}
+
+.res-nightmode a[href^="#f/"],.res-nightmode a[href^="#l/"],.res-nightmode a[href^="#i/"],.res-nightmode a[href*="?header"] {
+    color: transparent!important
+}
+
+.res-nightmode .noncollapsed .flair:hover,.res-nightmode .titlebox .tagline .flair {
+    color: #FBFBFB!important
+}
+
+.res-nightmode .titlebox .tagline .flair:before,.res-nightmode .titlebox .tagline .flair:hover:before {
+    background-color: #383838!important
+}
+
+.post-linkflair-unflaired .flair {
+    color: transparent!important
+}
+
+.post-linkflair-unflaired .flair:before,.linkflair-unflaired .flair:before,.post-linkflair-unflaired .flair:after {
+    width: 0!important
+}
+
+.post-linkflair-unflaired .author,.linkflair-unflaired .author {
+    margin-left: 0!important
+}
+
+a[href="#i/beamerball"]:before {
+    background-position: 0 -75px
+}
+
+a[href="#i/bert"]:before {
+    background-position: -70px -75px
+}
+
+a[href="#i/jimbo"]:before {
+    background-position: -140px -75px
+}
+
+a[href="#i/hokey"]:before {
+    background-position: -210px -75px
+}
+
+a[href="#i/briankelly"]:before {
+    background-position: -280px -75px
+}
+
+a[href="#i/kiffin"]:before {
+    background-position: -350px -75px
+}
+
+a[href="#i/gosling"]:before {
+    background-position: -420px -75px
+}
+
+a[href="#i/pirate"]:before {
+    background-position: -490px -75px
+}
+
+a[href="#i/gusbus"]:before {
+    background-position: -560px -75px
+}
+
+a[href="#i/sadurban"]:before {
+    background-position: -630px -75px
+}
+
+a[href="#i/miles"]:before {
+    background-position: -700px -75px
+}
+
+a[href="#i/boom"]:before {
+    background-position: -770px -75px
+}
+
+a[href="#i/pelini"]:before {
+    background-position: -840px -75px
+}
+
+a[href="#i/richt"]:before {
+    background-position: -910px -75px
+}
+
+a[href="#i/saban"]:before {
+    background-position: -980px -75px
+}
+
+a[href="#i/wizard"]:before {
+    background-position: -1050px -75px
+}
+
+a[href="#i/wreck"]:before {
+    background-position: -1120px -75px
+}
+
+a[href="#i/spurrier"]:before {
+    background-position: -1190px -75px
+}
+
+a[href="#i/oops"]:before {
+    background-position: -1260px -75px
+}
+
+a[href="#i/strong"]:before {
+    background-position: -1330px -75px
+}
+
+a[href="#i/sumlin"]:before {
+    background-position: -1400px -75px
+}
+
+a[href="#i/dabo"]:before {
+    background-position: -1470px -75px
+}
+
+a[href="#i/unclerico"]:before {
+    background-position: -1540px -75px
+}
+
+a[href="#i/corso"]:before {
+    background-position: 0 -145px
+}
+
+a[href="#i/pawl"]:before {
+    background-position: -70px -145px
+}
+
+a[href="#i/fowler"]:before {
+    background-position: -140px -145px
+}
+
+a[href="#i/herbie"]:before {
+    background-position: -210px -145px
+}
+
+a[href="#i/holtz"]:before {
+    background-position: -280px -145px
+}
+
+a[href="#i/desmond"]:before {
+    background-position: -350px -145px
+}
+
+a[href="#i/uncleverne"]:before {
+    background-position: -420px -145px
+}
+
+a[href="#i/musburger"]:before {
+    background-position: -490px -145px
+}
+
+a[href="#i/giggity"]:before {
+    background-position: -560px -145px
+}
+
+a[href="#i/bachelor"]:before {
+    background-position: -630px -145px
+}
+
+a[href="#i/zoolander"]:before {
+    background-position: -700px -145px
+}
+
+a[href="#i/steele"]:before {
+    background-position: -770px -145px
+}
+
+a[href="#i/choirboy"]:before {
+    background-position: -840px -145px
+}
+
+a[href="#i/crablegs"]:before {
+    background-position: 0 -215px
+}
+
+a[href="#i/heisman"]:before {
+    background-position: 0 -285px
+}
+
+a[href="#i/dumpster"]:before {
+    background-position: -70px -285px
+}
+
+a[href="#i/corncoug"]:before {
+    background-position: -140px -285px
+}
+
+a[href="#i/upsetcoug"]:before {
+    background-position: -210px -285px
+}
+
+a[href="#i/thebusiness"]:before {
+    background-position: -280px -285px
+}
+
+a[href="#i/donald"]:before {
+    background-position: -350px -285px
+}
+
+a[href="#i/tigger"]:before {
+    background-position: -420px -285px
+}
+
+a[href="#i/teamchaos"]:before {
+    background-position: -490px -285px
+}
+
+a[href="#i/teammeteor"]:before {
+    background-position: -560px -285px
+}
+
+a[href="#i/dawg"]:before {
+    background-position: 0 -355px
+}
+
+a[href="#i/clanga"]:before {
+    background-position: -70px -355px
+}
+
+a[href="#i/stronk"]:before {
+    background-position: -140px -355px
+}
+
+a[href="#i/quack"]:before {
+    background-position: -210px -355px
+}
+
+a[href="#l/rcfb"]:before {
+    background-position: 0 -35px
+}
+
+a[href="#l/shitilost"]:before {
+    background-position: -40px -35px
+}
+
+a[href="#l/chaos"]:before {
+    background-position: -80px -35px
+}
+
+a[href="#l/band"]:before {
+    background-position: -120px -35px
+}
+
+a[href="#l/meteor"]:before {
+    background-position: -160px -35px
+}
+
+a[href="#l/beard"]:before {
+    background-position: 0 -65px
+}
+
+a[href="#l/artist"]:before {
+    background-position: -40px -65px
+}
+
+a[href="#l/patron"]:before {
+    background-position: -80px -65px
+}
+
+a[href="#l/medal"]:before {
+    background-position: -120px -65px
+}
+
+a[href="#l/contributor"]:before {
+    background-position: -160px -65px
+}
+
+a[href="#l/tophat"]:before {
+    background-position: -200px -65px
+}
+
+a[href="#l/brick"]:before {
+    background-position: -240px -65px
+}
+
+a[href="#l/checkbox"]:before {
+    background-position: -280px -65px
+}
+
+a[href="#l/tv"]:before {
+    background-position: -320px -65px
+}
+
+a[href="#l/coach"]:before {
+    background-position: -360px -65px
+}
+
+a[href="#l/media"]:before {
+    background-position: -400px -65px
+}
+
+a[href="#l/player"]:before {
+    background-position: -440px -65px
+}
+
+a[href="#l/ref"]:before {
+    background-position: -480px -65px
+}
+
+a[href="#l/staff"]:before {
+    background-position: -520px -65px
+}
+
+a[href="#l/fulmer"]:before {
+    background-position: -560px -65px
+}
+
+a[href="#l/ncaa"]:before {
+    background-position: 0 -95px
+}
+
+a[href="#l/acc"]:before {
+    background-position: -40px -95px
+}
+
+a[href="#l/aac"]:before {
+    background-position: -80px -95px
+}
+
+a[href="#l/big12"]:before {
+    background-position: -120px -95px
+}
+
+a[href="#l/bigten"]:before {
+    background-position: -160px -95px
+}
+
+a[href="#l/cusa"]:before {
+    background-position: -200px -95px
+}
+
+a[href="#l/indep"]:before {
+    background-position: -240px -95px
+}
+
+a[href="#l/mac"]:before {
+    background-position: -280px -95px
+}
+
+a[href="#l/mwc"]:before {
+    background-position: -320px -95px
+}
+
+a[href="#l/pac12"]:before {
+    background-position: -360px -95px
+}
+
+a[href="#l/sec"]:before {
+    background-position: -400px -95px
+}
+
+a[href="#l/sunbelt"]:before {
+    background-position: -440px -95px
+}
+
+a[href="#l/fcs"]:before {
+    background-position: 0 -125px
+}
+
+a[href="#l/bigsky"]:before {
+    background-position: -40px -125px
+}
+
+a[href="#l/bigsouth"]:before {
+    background-position: -80px -125px
+}
+
+a[href="#l/caa"]:before {
+    background-position: -120px -125px
+}
+
+a[href="#l/ivy"]:before {
+    background-position: -160px -125px
+}
+
+a[href="#l/meac"]:before {
+    background-position: -200px -125px
+}
+
+a[href="#l/mvc"]:before {
+    background-position: -240px -125px
+}
+
+a[href="#l/nec"]:before {
+    background-position: -280px -125px
+}
+
+a[href="#l/ovc"]:before {
+    background-position: -320px -125px
+}
+
+a[href="#l/patriot"]:before {
+    background-position: -360px -125px
+}
+
+a[href="#l/pioneer"]:before {
+    background-position: -400px -125px
+}
+
+a[href="#l/socon"]:before {
+    background-position: -440px -125px
+}
+
+a[href="#l/southland"]:before {
+    background-position: -480px -125px
+}
+
+a[href="#l/swac"]:before {
+    background-position: -520px -125px
+}
+
+a[href="#l/naia"]:before {
+    background-position: 0 -155px
+}
+
+a[href="#l/uscaa"]:before {
+    background-position: -40px -155px
+}
+
+a[href="#l/cccaa"]:before {
+    background-position: -80px -155px
+}
+
+a[href="#l/njcaa"]:before {
+    background-position: -120px -155px
+}
+
+a[href="#l/ncfa"]:before {
+    background-position: -160px -155px
+}
+
+a[href="#l/icff"]:before {
+    background-position: -200px -155px
+}
+
+a[href="#l/csfl"]:before {
+    background-position: -240px -155px
+}
+
+a[href="#l/bucs"]:before {
+    background-position: -280px -155px
+}
+
+a[href="#l/cis"]:before {
+    background-position: -320px -155px
+}
+
+a[href="#l/jafa"]:before {
+    background-position: -360px -155px
+}
+
+a[href="#l/onefa"]:before {
+    background-position: -400px -155px
+}
+
+a[href="#l/conadeip"]:before {
+    background-position: -440px -155px
+}
+
+a[href="#l/abc"]:before {
+    background-position: 0 -185px
+}
+
+a[href="#l/accn"]:before {
+    background-position: -40px -185px
+}
+
+a[href="#l/btn"]:before {
+    background-position: -80px -185px
+}
+
+a[href="#l/cbs"]:before {
+    background-position: -120px -185px
+}
+
+a[href="#l/cbssn"]:before {
+    background-position: -160px -185px
+}
+
+a[href="#l/espn"]:before {
+    background-position: -200px -185px
+}
+
+a[href="#l/espn2"]:before {
+    background-position: -240px -185px
+}
+
+a[href="#l/espnu"]:before {
+    background-position: -280px -185px
+}
+
+a[href="#l/fox"]:before {
+    background-position: -320px -185px
+}
+
+a[href="#l/fs1"]:before {
+    background-position: -360px -185px
+}
+
+a[href="#l/fsn"]:before {
+    background-position: -400px -185px
+}
+
+a[href="#l/lhn"]:before {
+    background-position: -440px -185px
+}
+
+a[href="#l/nbc"]:before {
+    background-position: -480px -185px
+}
+
+a[href="#l/nbcsn"]:before {
+    background-position: -520px -185px
+}
+
+a[href="#l/p12n"]:before {
+    background-position: -560px -185px
+}
+
+a[href="#l/secn"]:before {
+    background-position: -600px -185px
+}
+
+a[href="#l/byutv"]:before {
+    background-position: 0 -215px
+}
+
+a[href="#l/espnclassic"]:before {
+    background-position: -40px -215px
+}
+
+a[href="#l/espng"]:before {
+    background-position: -80px -215px
+}
+
+a[href="#l/espn3"]:before {
+    background-position: -120px -215px
+}
+
+a[href="#l/espnews"]:before {
+    background-position: -160px -215px
+}
+
+a[href="#l/wespn"]:before {
+    background-position: -200px -215px
+}
+
+a[href="#l/cfp"]:before {
+    background-position: 0 -245px
+}
+
+a[href="#l/bcs"]:before {
+    background-position: -40px -245px
+}
+
+a[href="#l/fcsc"]:before {
+    background-position: -80px -245px
+}
+
+a[href="#l/cotton"]:before {
+    background-position: -120px -245px
+}
+
+a[href="#l/fiesta"]:before {
+    background-position: -160px -245px
+}
+
+a[href="#l/orange"]:before {
+    background-position: -200px -245px
+}
+
+a[href="#l/peach"]:before {
+    background-position: -240px -245px
+}
+
+a[href="#l/rose"]:before {
+    background-position: -280px -245px
+}
+
+a[href="#l/sugar"]:before {
+    background-position: -320px -245px
+}
+
+a[href="#l/vanier"]:before {
+    background-position: -360px -245px
+}
+
+a[href="#l/alamo"]:before {
+    background-position: 0 -275px
+}
+
+a[href="#l/belk"]:before {
+    background-position: -40px -275px
+}
+
+a[href="#l/cactus"]:before {
+    background-position: -80px -275px
+}
+
+a[href="#l/citrusbowl"]:before {
+    background-position: -120px -275px
+}
+
+a[href="#l/dallas"]:before {
+    background-position: -160px -275px
+}
+
+a[href="#l/holiday"]:before {
+    background-position: -200px -275px
+}
+
+a[href="#l/independence"]:before {
+    background-position: -240px -275px
+}
+
+a[href="#l/lasvegas"]:before {
+    background-position: -280px -275px
+}
+
+a[href="#l/libertybowl"]:before {
+    background-position: -320px -275px
+}
+
+a[href="#l/military"]:before {
+    background-position: -360px -275px
+}
+
+a[href="#l/musiccity"]:before {
+    background-position: -400px -275px
+}
+
+a[href="#l/outback"]:before {
+    background-position: -440px -275px
+}
+
+a[href="#l/pinstripe"]:before {
+    background-position: -480px -275px
+}
+
+a[href="#l/russell"]:before {
+    background-position: -520px -275px
+}
+
+a[href="#l/sun"]:before {
+    background-position: -560px -275px
+}
+
+a[href="#l/texasbowl"]:before {
+    background-position: -600px -275px
+}
+
+a[href="#l/armedforces"]:before {
+    background-position: 0 -305px
+}
+
+a[href="#l/bahamas"]:before {
+    background-position: -40px -305px
+}
+
+a[href="#l/birminghambowl"]:before {
+    background-position: -80px -305px
+}
+
+a[href="#l/bocaraton"]:before {
+    background-position: -120px -305px
+}
+
+a[href="#l/camellia"]:before {
+    background-position: -160px -305px
+}
+
+a[href="#l/cure"]:before {
+    background-position: -200px -305px
+}
+
+a[href="#l/gator"]:before {
+    background-position: -240px -305px
+}
+
+a[href="#l/hawaiibowl"]:before {
+    background-position: -280px -305px
+}
+
+a[href="#l/potato"]:before {
+    background-position: -320px -305px
+}
+
+a[href="#l/miamibeach"]:before {
+    background-position: -360px -305px
+}
+
+a[href="#l/mobile"]:before {
+    background-position: -400px -305px
+}
+
+a[href="#l/motorcity"]:before {
+    background-position: -440px -305px
+}
+
+a[href="#l/newmexicobowl"]:before {
+    background-position: -480px -305px
+}
+
+a[href="#l/neworleansbowl"]:before {
+    background-position: -520px -305px
+}
+
+a[href="#l/poinsettia"]:before {
+    background-position: -560px -305px
+}
+
+a[href="#l/lions"]:before {
+    background-position: -600px -305px
+}
+
+a[href="#l/sfbowl"]:before {
+    background-position: -640px -305px
+}
+
+a[href="#l/stpetersburg"]:before {
+    background-position: -680px -305px
+}
+
+a[href="http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=rCFB-20?header"]:before {
+    background-position: 0 -515px
+}
+
+a[href="http://instagram.com/redditCFB?header"]:before {
+    background-position: -40px -515px
+}
+
+a[href="http://kiwiirc.com/client/irc.freenode.net?headerchannel=#redditCFB"]:before {
+    background-position: -80px -515px
+}
+
+a[href="http://kiwiirc.com/client/irc.freenode.net?headerchannel=#redditFCS"]:before {
+    background-position: -120px -515px
+}
+
+a[href="http://www.reddit.com?header"]:before {
+    background-position: -160px -515px
+}
+
+a[href="http://twitter.com/redditCFB?header"]:before {
+    background-position: -200px -515px
+}
+
+a[href="http://twitter.com/redditFCS?header"]:before {
+    background-position: -240px -515px
+}
+
+a[href="#l/upvoteyes"]:before {
+    background-position: 0 -545px
+}
+
+a[href="#l/upvoteno"]:before {
+    background-position: -40px -545px
+}
+
+a[href="#l/downvoteyes"]:before {
+    background-position: -80px -545px
+}
+
+a[href="#l/downvoteno"]:before {
+    background-position: -120px -545px
+}
+
+a[href="#l/mailyes"]:before {
+    background-position: -160px -545px
+}
+
+a[href="#/mailno"]:before {
+    background-position: -200px -545px
+}
+
+.flair[class$="r-bostoncollege"]:before,a[href="#f/bostoncollege"]:before {
+    background-position: 0 -35px
+}
+
+.flair[class$="r-clemson"]:before,a[href="#f/clemson"]:before {
+    background-position: -40px -35px
+}
+
+.flair[class$="r-duke"]:before,a[href="#f/duke"]:before {
+    background-position: -80px -35px
+}
+
+.flair[class$="r-floridastate"]:before,a[href="#f/floridastate"]:before {
+    background-position: -120px -35px
+}
+
+.flair[class$="r-georgiatech"]:before,a[href="#f/georgiatech"]:before {
+    background-position: -160px -35px
+}
+
+.flair[class$="r-louisville"]:before,a[href="#f/louisville"]:before {
+    background-position: -200px -35px
+}
+
+.flair[class$="r-miamifl"]:before,a[href="#f/miamifl"]:before,a[href="#f/u"]:before {
+    background-position: -240px -35px
+}
+
+.flair[class$="r-northcarolina"]:before,a[href="#f/northcarolina"]:before {
+    background-position: -280px -35px
+}
+
+.flair[class$="r-northcarolinastate"]:before,a[href="#f/northcarolinastate"]:before {
+    background-position: -320px -35px
+}
+
+.flair[class$="r-pittsburgh"]:before,a[href="#f/pittsburgh"]:before {
+    background-position: -360px -35px
+}
+
+.flair[class$="r-syracuse"]:before,a[href="#f/syracuse"]:before {
+    background-position: -400px -35px
+}
+
+.flair[class$="r-virginia"]:before,a[href="#f/virginia"]:before {
+    background-position: -440px -35px
+}
+
+.flair[class$="r-virginiatech"]:before,a[href="#f/virginiatech"]:before {
+    background-position: -480px -35px
+}
+
+.flair[class$="r-wakeforest"]:before,a[href="#f/wakeforest"]:before {
+    background-position: -520px -35px
+}
+
+.flair[class$="r-baylor"]:before,a[href="#f/baylor"]:before {
+    background-position: 0 -65px
+}
+
+.flair[class$="r-iowastate"]:before,a[href="#f/iowastate"]:before {
+    background-position: -40px -65px
+}
+
+.flair[class$="r-kansas"]:before,a[href="#f/kansas"]:before {
+    background-position: -80px -65px
+}
+
+.flair[class$="r-kansasstate"]:before,a[href="#f/kansasstate"]:before {
+    background-position: -120px -65px
+}
+
+.flair[class$="r-oklahoma"]:before,a[href="#f/oklahoma"]:before {
+    background-position: -160px -65px
+}
+
+.flair[class$="r-oklahomastate"]:before,a[href="#f/oklahomastate"]:before {
+    background-position: -200px -65px
+}
+
+.flair[class$="r-tcu"]:before,a[href="#f/tcu"]:before {
+    background-position: -240px -65px
+}
+
+.flair[class$="r-texas"]:before,a[href="#f/texas"]:before {
+    background-position: -280px -65px
+}
+
+.flair[class$="r-texastech"]:before,a[href="#f/texastech"]:before {
+    background-position: -320px -65px
+}
+
+.flair[class$="r-westvirginia"]:before,a[href="#f/westvirginia"]:before {
+    background-position: -360px -65px
+}
+
+.flair[class$="r-texas2"]:before {
+    background-position: -400px -65px
+}
+
+.flair[class$="r-texastech2"]:before {
+    background-position: -440px -65px
+}
+
+.flair[class$="r-texas3"]:before {
+    background-position: -480px -65px
+}
+
+.flair[class$="r-illinois"]:before,a[href="#f/illinois"]:before,a[href="#f/i"]:before {
+    background-position: 0 -95px
+}
+
+.flair[class$="r-indiana"]:before,a[href="#f/indiana"]:before {
+    background-position: -40px -95px
+}
+
+.flair[class$="r-iowa"]:before,a[href="#f/iowa"]:before {
+    background-position: -80px -95px
+}
+
+.flair[class$="r-maryland"]:before,a[href="#f/maryland"]:before {
+    background-position: -120px -95px
+}
+
+.flair[class$="r-michigan"]:before,a[href="#f/michigan"]:before {
+    background-position: -160px -95px
+}
+
+.flair[class$="r-michiganstate"]:before,a[href="#f/michiganstate"]:before {
+    background-position: -200px -95px
+}
+
+.flair[class$="r-minnesota"]:before,a[href="#f/minnesota"]:before {
+    background-position: -240px -95px
+}
+
+.flair[class$="r-nebraska"]:before,a[href="#f/nebraska"]:before {
+    background-position: -280px -95px
+}
+
+.flair[class$="r-northwestern"]:before,a[href="#f/northwestern"]:before,a[href="#f/n"]:before {
+    background-position: -320px -95px
+}
+
+.flair[class$="r-ohiostate"]:before,a[href="#f/ohiostate"]:before,a[href="#f/o"]:before {
+    background-position: -360px -95px
+}
+
+.flair[class$="r-pennstate"]:before,a[href="#f/pennstate"]:before {
+    background-position: -400px -95px
+}
+
+.flair[class$="r-purdue"]:before,a[href="#f/purdue"]:before,a[href="#f/p"]:before {
+    background-position: -440px -95px
+}
+
+.flair[class$="r-rutgers"]:before,a[href="#f/rutgers"]:before {
+    background-position: -480px -95px
+}
+
+.flair[class$="r-wisconsin"]:before,a[href="#f/wisconsin"]:before {
+    background-position: -520px -95px
+}
+
+.flair[class$="r-indiana2"]:before {
+    background-position: -560px -95px
+}
+
+.flair[class$="r-michigan2"]:before {
+    background-position: -600px -95px
+}
+
+.flair[class$="r-ohiostate2"]:before {
+    background-position: -640px -95px
+}
+
+.flair[class$="r-ohiostate3"]:before {
+    background-position: -680px -95px
+}
+
+.flair[class$="r-arizona"]:before,a[href="#f/arizona"]:before {
+    background-position: 0 -125px
+}
+
+.flair[class$="r-arizonastate"]:before,a[href="#f/arizonastate"]:before {
+    background-position: -40px -125px
+}
+
+.flair[class$="r-california"]:before,a[href="#f/california"]:before {
+    background-position: -80px -125px
+}
+
+.flair[class$="r-colorado"]:before,a[href="#f/colorado"]:before {
+    background-position: -120px -125px
+}
+
+.flair[class$="r-oregon"]:before,a[href="#f/oregon"]:before {
+    background-position: -160px -125px
+}
+
+.flair[class$="r-oregonstate"]:before,a[href="#f/oregonstate"]:before {
+    background-position: -200px -125px
+}
+
+.flair[class$="r-stanford"]:before,a[href="#f/stanford"]:before,a[href="#f/s"]:before {
+    background-position: -240px -125px
+}
+
+.flair[class$="r-ucla"]:before,a[href="#f/ucla"]:before {
+    background-position: -280px -125px
+}
+
+.flair[class$="r-usc"]:before,a[href="#f/usc"]:before {
+    background-position: -320px -125px
+}
+
+.flair[class$="r-utah"]:before,a[href="#f/utah"]:before {
+    background-position: -360px -125px
+}
+
+.flair[class$="r-washington"]:before,a[href="#f/washington"]:before {
+    background-position: -400px -125px
+}
+
+.flair[class$="r-washingtonstate"]:before,a[href="#f/washingtonstate"]:before {
+    background-position: -440px -125px
+}
+
+.flair[class$="r-oregon2"]:before {
+    background-position: -480px -125px
+}
+
+.flair[class$="r-stanford2"]:before {
+    background-position: -520px -125px
+}
+
+.flair[class$="r-alabama"]:before,a[href="#f/alabama"]:before {
+    background-position: 0 -155px
+}
+
+.flair[class$="r-arkansas"]:before,a[href="#f/arkansas"]:before {
+    background-position: -40px -155px
+}
+
+.flair[class$="r-auburn"]:before,a[href="#f/auburn"]:before {
+    background-position: -80px -155px
+}
+
+.flair[class$="r-florida"]:before,a[href="#f/florida"]:before {
+    background-position: -120px -155px
+}
+
+.flair[class$="r-georgia"]:before,a[href="#f/georgia"]:before {
+    background-position: -160px -155px
+}
+
+.flair[class$="r-kentucky"]:before,a[href="#f/kentucky"]:before {
+    background-position: -200px -155px
+}
+
+.flair[class$="r-lsu"]:before,a[href="#f/lsu"]:before {
+    background-position: -240px -155px
+}
+
+.flair[class$="r-mississippistate"]:before,a[href="#f/mississippistate"]:before {
+    background-position: -280px -155px
+}
+
+.flair[class$="r-missouri"]:before,a[href="#f/missouri"]:before {
+    background-position: -320px -155px
+}
+
+.flair[class$="r-olemiss"]:before,a[href="#f/olemiss"]:before {
+    background-position: -360px -155px
+}
+
+.flair[class$="r-southcarolina"]:before,a[href="#f/southcarolina"]:before {
+    background-position: -400px -155px
+}
+
+.flair[class$="r-tennessee"]:before,a[href="#f/tennessee"]:before,a[href="#f/t"]:before {
+    background-position: -440px -155px
+}
+
+.flair[class$="r-texasam"]:before,a[href="#f/texasam"]:before {
+    background-position: -480px -155px
+}
+
+.flair[class$="r-vanderbilt"]:before,a[href="#f/vanderbilt"]:before {
+    background-position: -520px -155px
+}
+
+.flair[class$="r-alabama2"]:before {
+    background-position: -560px -155px
+}
+
+.flair[class$="r-kentucky2"]:before {
+    background-position: -600px -155px
+}
+
+.flair[class$="r-olemiss2"]:before {
+    background-position: -640px -155px
+}
+
+.flair[class$="r-texasam2"]:before {
+    background-position: -680px -155px
+}
+
+.flair[class$="r-florida2"]:before {
+    background-position: -720px -155px
+}
+
+.flair[class$="r-army"]:before,a[href="#f/army"]:before,a[href="#f/a"]:before {
+    background-position: 0 -185px
+}
+
+.flair[class$="r-byu"]:before,a[href="#f/byu"]:before {
+    background-position: -40px -185px
+}
+
+.flair[class$="r-navy"]:before,a[href="#f/navy"]:before {
+    background-position: -80px -185px
+}
+
+.flair[class$="r-notredame"]:before,a[href="#f/notredame"]:before {
+    background-position: -120px -185px
+}
+
+.flair[class$="r-cincinnati"]:before,a[href="#f/cincinnati"]:before {
+    background-position: 0 -215px
+}
+
+.flair[class$="r-connecticut"]:before,a[href="#f/connecticut"]:before {
+    background-position: -40px -215px
+}
+
+.flair[class$="r-eastcarolina"]:before,a[href="#f/eastcarolina"]:before {
+    background-position: -80px -215px
+}
+
+.flair[class$="r-houston"]:before,a[href="#f/houston"]:before {
+    background-position: -120px -215px
+}
+
+.flair[class$="r-memphis"]:before,a[href="#f/memphis"]:before {
+    background-position: -160px -215px
+}
+
+.flair[class$="r-smu"]:before,a[href="#f/smu"]:before {
+    background-position: -200px -215px
+}
+
+.flair[class$="r-southflorida"]:before,a[href="#f/southflorida"]:before {
+    background-position: -240px -215px
+}
+
+.flair[class$="r-temple"]:before,a[href="#f/temple"]:before {
+    background-position: -280px -215px
+}
+
+.flair[class$="r-tulane"]:before,a[href="#f/tulane"]:before {
+    background-position: -320px -215px
+}
+
+.flair[class$="r-tulsa"]:before,a[href="#f/tulsa"]:before {
+    background-position: -360px -215px
+}
+
+.flair[class$="r-ucf"]:before,a[href="#f/ucf"]:before {
+    background-position: -400px -215px
+}
+
+.flair[class$="r-houston2"]:before {
+    background-position: -440px -215px
+}
+
+.flair[class$="r-charlotte"]:before,a[href="#f/charlotte"]:before {
+    background-position: 0 -245px
+}
+
+.flair[class$="r-floridaatlantic"]:before,a[href="#f/floridaatlantic"]:before {
+    background-position: -40px -245px
+}
+
+.flair[class$="r-floridainternational"]:before,a[href="#f/floridainternational"]:before {
+    background-position: -80px -245px
+}
+
+.flair[class$="r-louisianatech"]:before,a[href="#f/louisianatech"]:before {
+    background-position: -120px -245px
+}
+
+.flair[class$="r-marshall"]:before,a[href="#f/marshall"]:before {
+    background-position: -160px -245px
+}
+
+.flair[class$="r-middletennessee"]:before,a[href="#f/middletennessee"]:before {
+    background-position: -200px -245px
+}
+
+.flair[class$="r-northtexas"]:before,a[href="#f/northtexas"]:before {
+    background-position: -240px -245px
+}
+
+.flair[class$="r-olddominion"]:before,a[href="#f/olddominion"]:before {
+    background-position: -280px -245px
+}
+
+.flair[class$="r-rice"]:before,a[href="#f/rice"]:before,a[href="#f/r"]:before {
+    background-position: -320px -245px
+}
+
+.flair[class$="r-southernmiss"]:before,a[href="#f/southernmiss"]:before {
+    background-position: -360px -245px
+}
+
+.flair[class$="r-utep"]:before,a[href="#f/utep"]:before {
+    background-position: -400px -245px
+}
+
+.flair[class$="r-utsa"]:before,a[href="#f/utsa"]:before {
+    background-position: -440px -245px
+}
+
+.flair[class$="r-westernkentucky"]:before,a[href="#f/westernkentucky"]:before {
+    background-position: -480px -245px
+}
+
+.flair[class$="r-akron"]:before,a[href="#f/akron"]:before,a[href="#f/z"]:before {
+    background-position: 0 -275px
+}
+
+.flair[class$="r-ballstate"]:before,a[href="#f/ballstate"]:before {
+    background-position: -40px -275px
+}
+
+.flair[class$="r-bowlinggreen"]:before,a[href="#f/bowlinggreen"]:before {
+    background-position: -80px -275px
+}
+
+.flair[class$="r-buffalo"]:before,a[href="#f/buffalo"]:before {
+    background-position: -120px -275px
+}
+
+.flair[class$="r-centralmichigan"]:before,a[href="#f/centralmichigan"]:before {
+    background-position: -160px -275px
+}
+
+.flair[class$="r-easternmichigan"]:before,a[href="#f/easternmichigan"]:before,a[href="#f/e"]:before {
+    background-position: -200px -275px
+}
+
+.flair[class$="r-kentstate"]:before,a[href="#f/kentstate"]:before {
+    background-position: -240px -275px
+}
+
+.flair[class$="r-massachusetts"]:before,a[href="#f/massachusetts"]:before {
+    background-position: -280px -275px
+}
+
+.flair[class$="r-miamioh"]:before,a[href="#f/miamioh"]:before {
+    background-position: -320px -275px
+}
+
+.flair[class$="r-northernillinois"]:before,a[href="#f/northernillinois"]:before {
+    background-position: -360px -275px
+}
+
+.flair[class$="r-ohio"]:before,a[href="#f/ohio"]:before {
+    background-position: -400px -275px
+}
+
+.flair[class$="r-toledo"]:before,a[href="#f/toledo"]:before {
+    background-position: -440px -275px
+}
+
+.flair[class$="r-westernmichigan"]:before,a[href="#f/westernmichigan"]:before {
+    background-position: -480px -275px
+}
+
+.flair[class$="r-northernillinois2"]:before {
+    background-position: -520px -275px
+}
+
+.flair[class$="r-airforce"]:before,a[href="#f/airforce"]:before {
+    background-position: 0 -305px
+}
+
+.flair[class$="r-boisestate"]:before,a[href="#f/boisestate"]:before {
+    background-position: -40px -305px
+}
+
+.flair[class$="r-coloradostate"]:before,a[href="#f/coloradostate"]:before {
+    background-position: -80px -305px
+}
+
+.flair[class$="r-fresnostate"]:before,a[href="#f/fresnostate"]:before {
+    background-position: -120px -305px
+}
+
+.flair[class$="r-hawaii"]:before,a[href="#f/hawaii"]:before,a[href="#f/h"]:before {
+    background-position: -160px -305px
+}
+
+.flair[class$="r-nevada"]:before,a[href="#f/nevada"]:before {
+    background-position: -200px -305px
+}
+
+.flair[class$="r-newmexico"]:before,a[href="#f/newmexico"]:before {
+    background-position: -240px -305px
+}
+
+.flair[class$="r-sandiegostate"]:before,a[href="#f/sandiegostate"]:before {
+    background-position: -280px -305px
+}
+
+.flair[class$="r-sanjosestate"]:before,a[href="#f/sanjosestate"]:before {
+    background-position: -320px -305px
+}
+
+.flair[class$="r-unlv"]:before,a[href="#f/unlv"]:before {
+    background-position: -360px -305px
+}
+
+.flair[class$="r-utahstate"]:before,a[href="#f/utahstate"]:before {
+    background-position: -400px -305px
+}
+
+.flair[class$="r-wyoming"]:before,a[href="#f/wyoming"]:before {
+    background-position: -440px -305px
+}
+
+.flair[class$="r-appalachianstate"]:before,a[href="#f/appalachianstate"]:before {
+    background-position: 0 -335px
+}
+
+.flair[class$="r-arkansasstate"]:before,a[href="#f/arkansasstate"]:before {
+    background-position: -40px -335px
+}
+
+.flair[class$="r-georgiasouthern"]:before,a[href="#f/georgiasouthern"]:before {
+    background-position: -80px -335px
+}
+
+.flair[class$="r-georgiastate"]:before,a[href="#f/georgiastate"]:before {
+    background-position: -120px -335px
+}
+
+.flair[class$="r-idaho"]:before,a[href="#f/idaho"]:before {
+    background-position: -160px -335px
+}
+
+.flair[class$="r-louisianalafayette"]:before,a[href="#f/louisianalafayette"]:before {
+    background-position: -200px -335px
+}
+
+.flair[class$="r-louisianamonroe"]:before,a[href="#f/louisianamonroe"]:before {
+    background-position: -240px -335px
+}
+
+.flair[class$="r-newmexicostate"]:before,a[href="#f/newmexicostate"]:before {
+    background-position: -280px -335px
+}
+
+.flair[class$="r-southalabama"]:before,a[href="#f/southalabama"]:before {
+    background-position: -320px -335px
+}
+
+.flair[class$="r-texasstate"]:before,a[href="#f/texasstate"]:before {
+    background-position: -360px -335px
+}
+
+.flair[class$="r-troy"]:before,a[href="#f/troy"]:before {
+    background-position: -400px -335px
+}
+
+.flair[class$="r-calpoly"]:before,a[href="#f/calpoly"]:before {
+    background-position: 0 -365px
+}
+
+.flair[class$="r-easternwashington"]:before,a[href="#f/easternwashington"]:before {
+    background-position: -40px -365px
+}
+
+.flair[class$="r-idahostate"]:before,a[href="#f/idahostate"]:before {
+    background-position: -80px -365px
+}
+
+.flair[class$="r-montana"]:before,a[href="#f/montana"]:before {
+    background-position: -120px -365px
+}
+
+.flair[class$="r-montanastate"]:before,a[href="#f/montanastate"]:before {
+    background-position: -160px -365px
+}
+
+.flair[class$="r-northdakota"]:before,a[href="#f/northdakota"]:before {
+    background-position: -200px -365px
+}
+
+.flair[class$="r-northernarizona"]:before,a[href="#f/northernarizona"]:before {
+    background-position: -240px -365px
+}
+
+.flair[class$="r-northerncolorado"]:before,a[href="#f/northerncolorado"]:before {
+    background-position: -280px -365px
+}
+
+.flair[class$="r-portlandstate"]:before,a[href="#f/portlandstate"]:before {
+    background-position: -320px -365px
+}
+
+.flair[class$="r-sacramentostate"]:before,a[href="#f/sacramentostate"]:before {
+    background-position: -360px -365px
+}
+
+.flair[class$="r-southernutah"]:before,a[href="#f/southernutah"]:before {
+    background-position: -400px -365px
+}
+
+.flair[class$="r-ucdavis"]:before,a[href="#f/ucdavis"]:before {
+    background-position: -440px -365px
+}
+
+.flair[class$="r-weberstate"]:before,a[href="#f/weberstate"]:before {
+    background-position: -480px -365px
+}
+
+.flair[class$="r-charlestonsouthern"]:before,a[href="#f/charlestonsouthern"]:before {
+    background-position: 0 -395px
+}
+
+.flair[class$="r-coastalcarolina"]:before,a[href="#f/coastalcarolina"]:before {
+    background-position: -40px -395px
+}
+
+.flair[class$="r-gardnerwebb"]:before,a[href="#f/gardnerwebb"]:before {
+    background-position: -80px -395px
+}
+
+.flair[class$="r-kennesaw"]:before,a[href="#f/kennesaw"]:before {
+    background-position: -120px -395px
+}
+
+.flair[class$="r-liberty"]:before,a[href="#f/liberty"]:before {
+    background-position: -160px -395px
+}
+
+.flair[class$="r-monmouth"]:before,a[href="#f/monmouth"]:before {
+    background-position: -200px -395px
+}
+
+.flair[class$="r-presbyterian"]:before,a[href="#f/presbyterian"]:before {
+    background-position: -240px -395px
+}
+
+.flair[class$="r-albany"]:before,a[href="#f/albany"]:before {
+    background-position: 0 -425px
+}
+
+.flair[class$="r-delaware"]:before,a[href="#f/delaware"]:before {
+    background-position: -40px -425px
+}
+
+.flair[class$="r-elon"]:before,a[href="#f/elon"]:before {
+    background-position: -80px -425px
+}
+
+.flair[class$="r-jamesmadison"]:before,a[href="#f/jamesmadison"]:before {
+    background-position: -120px -425px
+}
+
+.flair[class$="r-maine"]:before,a[href="#f/maine"]:before {
+    background-position: -160px -425px
+}
+
+.flair[class$="r-newhampshire"]:before,a[href="#f/newhampshire"]:before {
+    background-position: -200px -425px
+}
+
+.flair[class$="r-rhodeisland"]:before,a[href="#f/rhodeisland"]:before {
+    background-position: -240px -425px
+}
+
+.flair[class$="r-richmond"]:before,a[href="#f/richmond"]:before {
+    background-position: -280px -425px
+}
+
+.flair[class$="r-stonybrook"]:before,a[href="#f/stonybrook"]:before {
+    background-position: -320px -425px
+}
+
+.flair[class$="r-towson"]:before,a[href="#f/towson"]:before {
+    background-position: -360px -425px
+}
+
+.flair[class$="r-villanova"]:before,a[href="#f/villanova"]:before,a[href="#f/v"]:before {
+    background-position: -400px -425px
+}
+
+.flair[class$="r-williammary"]:before,a[href="#f/williammary"]:before {
+    background-position: -440px -425px
+}
+
+.flair[class$="r-brown"]:before,a[href="#f/brown"]:before {
+    background-position: 0 -455px
+}
+
+.flair[class$="r-columbia"]:before,a[href="#f/columbia"]:before {
+    background-position: -40px -455px
+}
+
+.flair[class$="r-cornell"]:before,a[href="#f/cornell"]:before {
+    background-position: -80px -455px
+}
+
+.flair[class$="r-dartmouth"]:before,a[href="#f/dartmouth"]:before,a[href="#f/d"]:before {
+    background-position: -120px -455px
+}
+
+.flair[class$="r-harvard"]:before,a[href="#f/harvard"]:before {
+    background-position: -160px -455px
+}
+
+.flair[class$="r-pennsylvania"]:before,a[href="#f/pennsylvania"]:before {
+    background-position: -200px -455px
+}
+
+.flair[class$="r-princeton"]:before,a[href="#f/princeton"]:before {
+    background-position: -240px -455px
+}
+
+.flair[class$="r-yale"]:before,a[href="#f/yale"]:before,a[href="#f/y"]:before {
+    background-position: -280px -455px
+}
+
+.flair[class$="r-bethunecookman"]:before,a[href="#f/bethunecookman"]:before {
+    background-position: 0 -485px
+}
+
+.flair[class$="r-delawarestate"]:before,a[href="#f/delawarestate"]:before {
+    background-position: -40px -485px
+}
+
+.flair[class$="r-floridaam"]:before,a[href="#f/floridaam"]:before {
+    background-position: -80px -485px
+}
+
+.flair[class$="r-hampton"]:before,a[href="#f/hampton"]:before {
+    background-position: -120px -485px
+}
+
+.flair[class$="r-howard"]:before,a[href="#f/howard"]:before {
+    background-position: -160px -485px
+}
+
+.flair[class$="r-morganstate"]:before,a[href="#f/morganstate"]:before {
+    background-position: -200px -485px
+}
+
+.flair[class$="r-norfolkstate"]:before,a[href="#f/norfolkstate"]:before {
+    background-position: -240px -485px
+}
+
+.flair[class$="r-northcarolinaat"]:before,a[href="#f/northcarolinaat"]:before {
+    background-position: -280px -485px
+}
+
+.flair[class$="r-nccentral"]:before,a[href="#f/nccentral"]:before {
+    background-position: -320px -485px
+}
+
+.flair[class$="r-savannahstate"]:before,a[href="#f/savannahstate"]:before {
+    background-position: -360px -485px
+}
+
+.flair[class$="r-southcarolinastate"]:before,a[href="#f/southcarolinastate"]:before {
+    background-position: -400px -485px
+}
+
+.flair[class$="r-illinoisstate"]:before,a[href="#f/illinoisstate"]:before {
+    background-position: 0 -515px
+}
+
+.flair[class$="r-indianastate"]:before,a[href="#f/indianastate"]:before {
+    background-position: -40px -515px
+}
+
+.flair[class$="r-missouristate"]:before,a[href="#f/missouristate"]:before {
+    background-position: -80px -515px
+}
+
+.flair[class$="r-northdakotastate"]:before,a[href="#f/northdakotastate"]:before {
+    background-position: -120px -515px
+}
+
+.flair[class$="r-northerniowa"]:before,a[href="#f/northerniowa"]:before {
+    background-position: -160px -515px
+}
+
+.flair[class$="r-southdakota"]:before,a[href="#f/southdakota"]:before {
+    background-position: -200px -515px
+}
+
+.flair[class$="r-southdakotastate"]:before,a[href="#f/southdakotastate"]:before {
+    background-position: -240px -515px
+}
+
+.flair[class$="r-southernillinois"]:before,a[href="#f/southernillinois"]:before {
+    background-position: -280px -515px
+}
+
+.flair[class$="r-westernillinois"]:before,a[href="#f/westernillinois"]:before {
+    background-position: -320px -515px
+}
+
+.flair[class$="r-youngstownstate"]:before,a[href="#f/youngstownstate"]:before {
+    background-position: -360px -515px
+}
+
+.flair[class$="r-bryant"]:before,a[href="#f/bryant"]:before {
+    background-position: 0 -545px
+}
+
+.flair[class$="r-centralconnecticutstate"]:before,a[href="#f/centralconnecticutstate"]:before {
+    background-position: -40px -545px
+}
+
+.flair[class$="r-duquesne"]:before,a[href="#f/duquesne"]:before {
+    background-position: -80px -545px
+}
+
+.flair[class$="r-robertmorris"]:before,a[href="#f/robertmorris"]:before {
+    background-position: -120px -545px
+}
+
+.flair[class$="r-sacredheart"]:before,a[href="#f/sacredheart"]:before {
+    background-position: -160px -545px
+}
+
+.flair[class$="r-stfrancispa"]:before,a[href="#f/stfrancispa"]:before {
+    background-position: -200px -545px
+}
+
+.flair[class$="r-wagner"]:before,a[href="#f/wagner"]:before {
+    background-position: -240px -545px
+}
+
+.flair[class$="r-austinpeay"]:before,a[href="#f/austinpeay"]:before {
+    background-position: 0 -575px
+}
+
+.flair[class$="r-easternillinois"]:before,a[href="#f/easternillinois"]:before {
+    background-position: -40px -575px
+}
+
+.flair[class$="r-easternkentucky"]:before,a[href="#f/easternkentucky"]:before {
+    background-position: -80px -575px
+}
+
+.flair[class$="r-jacksonvillestate"]:before,a[href="#f/jacksonvillestate"]:before {
+    background-position: -120px -575px
+}
+
+.flair[class$="r-murraystate"]:before,a[href="#f/murraystate"]:before,a[href="#f/m"]:before {
+    background-position: -160px -575px
+}
+
+.flair[class$="r-southeastmissouristate"]:before,a[href="#f/southeastmissouristate"]:before {
+    background-position: -200px -575px
+}
+
+.flair[class$="r-tennesseestate"]:before,a[href="#f/tennesseestate"]:before {
+    background-position: -240px -575px
+}
+
+.flair[class$="r-tennesseetech"]:before,a[href="#f/tennesseetech"]:before {
+    background-position: -280px -575px
+}
+
+.flair[class$="r-tennesseemartin"]:before,a[href="#f/tennesseemartin"]:before {
+    background-position: -320px -575px
+}
+
+.flair[class$="r-bucknell"]:before,a[href="#f/bucknell"]:before {
+    background-position: 0 -605px
+}
+
+.flair[class$="r-colgate"]:before,a[href="#f/colgate"]:before {
+    background-position: -40px -605px
+}
+
+.flair[class$="r-fordham"]:before,a[href="#f/fordham"]:before {
+    background-position: -80px -605px
+}
+
+.flair[class$="r-georgetown"]:before,a[href="#f/georgetown"]:before {
+    background-position: -120px -605px
+}
+
+.flair[class$="r-holycross"]:before,a[href="#f/holycross"]:before {
+    background-position: -160px -605px
+}
+
+.flair[class$="r-lafayette"]:before,a[href="#f/lafayette"]:before {
+    background-position: -200px -605px
+}
+
+.flair[class$="r-lehigh"]:before,a[href="#f/lehigh"]:before {
+    background-position: -240px -605px
+}
+
+.flair[class$="r-butler"]:before,a[href="#f/butler"]:before {
+    background-position: 0 -635px
+}
+
+.flair[class$="r-campbell"]:before,a[href="#f/campbell"]:before {
+    background-position: -40px -635px
+}
+
+.flair[class$="r-davidson"]:before,a[href="#f/davidson"]:before {
+    background-position: -80px -635px
+}
+
+.flair[class$="r-dayton"]:before,a[href="#f/dayton"]:before {
+    background-position: -120px -635px
+}
+
+.flair[class$="r-drake"]:before,a[href="#f/drake"]:before {
+    background-position: -160px -635px
+}
+
+.flair[class$="r-jacksonville"]:before,a[href="#f/jacksonville"]:before {
+    background-position: -200px -635px
+}
+
+.flair[class$="r-marist"]:before,a[href="#f/marist"]:before {
+    background-position: -240px -635px
+}
+
+.flair[class$="r-moreheadstate"]:before,a[href="#f/moreheadstate"]:before {
+    background-position: -280px -635px
+}
+
+.flair[class$="r-sandiego"]:before,a[href="#f/sandiego"]:before {
+    background-position: -320px -635px
+}
+
+.flair[class$="r-stetson"]:before,a[href="#f/stetson"]:before {
+    background-position: -360px -635px
+}
+
+.flair[class$="r-valparaiso"]:before,a[href="#f/valparaiso"]:before {
+    background-position: -400px -635px
+}
+
+.flair[class$="r-chattanooga"]:before,a[href="#f/chattanooga"]:before,a[href="#f/c"]:before {
+    background-position: 0 -665px
+}
+
+.flair[class$="r-easttennesseestate"]:before,a[href="#f/easttennesseestate"]:before {
+    background-position: -40px -665px
+}
+
+.flair[class$="r-furman"]:before,a[href="#f/furman"]:before {
+    background-position: -80px -665px
+}
+
+.flair[class$="r-mercer"]:before,a[href="#f/mercer"]:before {
+    background-position: -120px -665px
+}
+
+.flair[class$="r-samford"]:before,a[href="#f/samford"]:before {
+    background-position: -160px -665px
+}
+
+.flair[class$="r-citadel"]:before,a[href="#f/citadel"]:before {
+    background-position: -200px -665px
+}
+
+.flair[class$="r-virginiamilitaryinstitute"]:before,a[href="#f/virginiamilitaryinstitute"]:before {
+    background-position: -240px -665px
+}
+
+.flair[class$="r-westerncarolina"]:before,a[href="#f/westerncarolina"]:before {
+    background-position: -280px -665px
+}
+
+.flair[class$="r-wofford"]:before,a[href="#f/wofford"]:before,a[href="#f/w"]:before {
+    background-position: -320px -665px
+}
+
+.flair[class$="r-abilenechristian"]:before,a[href="#f/abilenechristian"]:before {
+    background-position: 0 -695px
+}
+
+.flair[class$="r-centralarkansas"]:before,a[href="#f/centralarkansas"]:before {
+    background-position: -40px -695px
+}
+
+.flair[class$="r-houstonbaptist"]:before,a[href="#f/houstonbaptist"]:before {
+    background-position: -80px -695px
+}
+
+.flair[class$="r-incarnateword"]:before,a[href="#f/incarnateword"]:before {
+    background-position: -120px -695px
+}
+
+.flair[class$="r-lamar"]:before,a[href="#f/lamar"]:before {
+    background-position: -160px -695px
+}
+
+.flair[class$="r-mcneesestate"]:before,a[href="#f/mcneesestate"]:before {
+    background-position: -200px -695px
+}
+
+.flair[class$="r-nichollsstate"]:before,a[href="#f/nichollsstate"]:before {
+    background-position: -240px -695px
+}
+
+.flair[class$="r-northwesternstate"]:before,a[href="#f/northwesternstate"]:before {
+    background-position: -280px -695px
+}
+
+.flair[class$="r-samhoustonstate"]:before,a[href="#f/samhoustonstate"]:before {
+    background-position: -320px -695px
+}
+
+.flair[class$="r-southeasternlouisiana"]:before,a[href="#f/southeasternlouisiana"]:before {
+    background-position: -360px -695px
+}
+
+.flair[class$="r-stephenfaustin"]:before,a[href="#f/stephenfaustin"]:before {
+    background-position: -400px -695px
+}
+
+.flair[class$="r-neworleans"]:before,a[href="#f/neworleans"]:before {
+    background-position: -440px -695px
+}
+
+.flair[class$="r-alabamaam"]:before,a[href="#f/alabamaam"]:before {
+    background-position: 0 -725px
+}
+
+.flair[class$="r-alabamastate"]:before,a[href="#f/alabamastate"]:before {
+    background-position: -40px -725px
+}
+
+.flair[class$="r-alcornstate"]:before,a[href="#f/alcornstate"]:before {
+    background-position: -80px -725px
+}
+
+.flair[class$="r-arkansaspinebluff"]:before,a[href="#f/arkansaspinebluff"]:before {
+    background-position: -120px -725px
+}
+
+.flair[class$="r-gramblingstate"]:before,a[href="#f/gramblingstate"]:before,a[href="#f/g"]:before {
+    background-position: -160px -725px
+}
+
+.flair[class$="r-jacksonstate"]:before,a[href="#f/jacksonstate"]:before {
+    background-position: -200px -725px
+}
+
+.flair[class$="r-mississippivalleystate"]:before,a[href="#f/mississippivalleystate"]:before {
+    background-position: -240px -725px
+}
+
+.flair[class$="r-prairieviewam"]:before,a[href="#f/prairieviewam"]:before {
+    background-position: -280px -725px
+}
+
+.flair[class$="r-southern"]:before,a[href="#f/southern"]:before {
+    background-position: -320px -725px
+}
+
+.flair[class$="r-texassouthern"]:before,a[href="#f/texassouthern"]:before {
+    background-position: -360px -725px
+}
+
+a[href="#f/j"]:before {
+    background-position: -120px -155px
+}
+
+a[href="#f/k"]:before {
+    background-position: -160px -335px
+}
+
+a[href="#f/l"]:before {
+    background-position: -200px -365px
+}
+
+a[href="#f/b"]:before {
+    background-position: -40px -425px
+}
+
+a[href="#f/f"]:before {
+    background-position: -120px -275px
+}
+
+a[href="#f/x"]:before {
+    background-position: -80px -305px
+}
+
+a[href="#f/q"]:before {
+    background-position: -160px -365px
+}
+
+a[href="#w/w1b"] {
+    background: url("//b.thumbs.redditmedia.com/-TBGCSRv-miCvd_6dXipK7b7vxc4bqQAVMAR2PFaYOA.png")
+}
+
+a[href="#w/w1c"] {
+    background: url("//b.thumbs.redditmedia.com/ITx_DlD2NvVcxW_vRbPQ21wcABUFQ3Tlmz2uF6gEeYQ.png")
+}
+
+a[href="#w/w2b"] {
+    background: url("//b.thumbs.redditmedia.com/8V7546AmMRz61mNLQNjgrpInO_AuPSjjUzVtyXFuiTM.png")
+}
+
+a[href="#w/w2c"] {
+    background: url("//b.thumbs.redditmedia.com/1_YZ1faEKqw0vvUAuNMVWSpdA8JBGWKEVw8JHAXb2Ak.png")
+}
+
+a[href="#w/w3b"] {
+    background: url("//b.thumbs.redditmedia.com/lGa9Gu54Y4ulIVthngR959kyPNcbzvZAeHxdSAn8vIQ.png")
+}
+
+a[href="#w/w3c"] {
+    background: url("//b.thumbs.redditmedia.com/qySKihLOyLaowSFoe-aTnmhNhefEbIXEIlcuEhovv2k.png")
+}
+
+a[href="#w/w4b"] {
+    background: url("//b.thumbs.redditmedia.com/t2ktUjucd3f8HQFE3RaW-AWLHIWSr1irSUkz33urxxs.png")
+}
+
+a[href="#w/w4c"] {
+    background: url("//a.thumbs.redditmedia.com/nk-BnjiviywdhV2xYezq5v_8JhETAI65Dba9Jxyfai4.png")
+}
+
+a[href="#w/w5b"] {
+    background: url("//b.thumbs.redditmedia.com/NQLRtRf0tVfUS-y_3DRGmdE3U3viyboGYsCpYUhYIZI.png")
+}
+
+a[href="#w/w5c"] {
+    background: url("//b.thumbs.redditmedia.com/ErmOUYGJIvj_GgViOuXCnTyWHy0dyMykH3YVa6xHQdY.png")
+}
+
+a[href="#w/w6b"] {
+    background: url("//b.thumbs.redditmedia.com/RSWEAMHyo7r-wubpxjzevz-Ncsu2-MF-zOXSFebzyGc.png")
+}
+
+a[href="#w/w6c"] {
+    background: url("//b.thumbs.redditmedia.com/9hamvsJ5JJpRrPfgyeX5aDMNTiR3wO0pNdbpQny4hPQ.png")
+}
+
+a[href="#w/w7b"] {
+    background: url("//b.thumbs.redditmedia.com/QzhJCVR7qBRATTdNHBZ6o62pbnnV3Xbz2-l-MWdRo9o.png")
+}
+
+a[href="#w/w7c"] {
+    background: url("//b.thumbs.redditmedia.com/VLbwEAUHvJW9yPgUxcEA9VAh5aQBWP7uRM8R5hqOEBw.png")
+}
+
+a[href="#w/w8b"],a[href="#w/w8c"] {
+    background: url("//b.thumbs.redditmedia.com/NI6wR3seRHJAKa7owpyXFA5GspHITUQCWwBB3obC9dE.png")
+}
+
+a[href="#w/w9b"],a[href="#w/w9c"] {
+    background: url("//b.thumbs.redditmedia.com/HontlxDMAvExnXST2r-dS96OSUCS7ygjY7OjlePFuMY.png")
+}
+
+a[href="#w/w10b"],a[href="#w/w10c"] {
+    background: url("//b.thumbs.redditmedia.com/DiwmNjOxUQnF8Jj0NsV0Tj-g2ESHcu2MZYn6rT7QcwQ.png")
+}
+
+a[href="#w/w11b"] {
+    background: url("//a.thumbs.redditmedia.com/KZQ9j9kqVXUylNVqeuk2L3m7-5jkY4y-vE2J2Cv0Uv0.png")
+}
+
+a[href="#w/w11c"] {
+    background: url("//a.thumbs.redditmedia.com/i4X5d-vjtrrPKVVqqmrakGlVASZp1kPoVozkwY9Dr84.png")
+}
+
+a[href="#w/w12b"],a[href="#w/w12c"] {
+    background: url("//b.thumbs.redditmedia.com/_8N-0hxrlHq7abYkRC7uoTAo7CwOEorGv3Tm3mj8Igg.png")
+}
+
+a[href="#w/w13b"] {
+    background: url("//b.thumbs.redditmedia.com/7ZKnE3bcliYlN5wSlKugEMrb2t7VfX-kfDFo7pwStWs.png")
+}
+
+a[href="#w/w13c"] {
+    background: url("//b.thumbs.redditmedia.com/viYSbH2k8vnEPHXVQiFekX--pikPIvB-fu6cfEq5HVw.png")
+}
+
+a[href="#w/w14b"],a[href="#w/w14c"] {
+    background: url("//a.thumbs.redditmedia.com/OUUpw9l3HE6V9BVFEwPwrIK3EB0I0Iga-aixVQE3mk0.png")
+}
+
+a[href="#w/w15b"],a[href="#w/w15c"] {
+    background: url("//b.thumbs.redditmedia.com/eHaCh4rGd33XmMnUlHicZt8JjqvqQfRNZisrV7jHrec.png")
+}
+
+a[href="#w/w16b"],a[href="#w/w16c"] {
+    background: url("//b.thumbs.redditmedia.com/eVbvrnR1npr-5Jdd4gaEkjCl69Q0jlK30-_bx1dQKBo.png")
+}
+
+a[href="#w/w17b"],a[href="#w/w17c"] {
+    background: url("//b.thumbs.redditmedia.com/k6R2nL6Z4AnUqZZFLMQzmBcYZyUg4h0NhV3kErGqosk.png")
+}
+
+a[href="#w/w1b"],a[href="#w/w2b"],a[href="#w/w3b"],a[href="#w/w4b"],a[href="#w/w5b"],a[href="#w/w6b"],a[href="#w/w7b"],a[href="#w/w8b"],a[href="#w/w9b"],a[href="#w/w10b"],a[href="#w/w11b"],a[href="#w/w12b"],a[href="#w/w13b"],a[href="#w/w14b"],a[href="#w/w15b"],a[href="#w/w16b"],a[href="#w/w17b"],a[href="#w/w1c"],a[href="#w/w2c"] {
+    width: 300px;
+    background-position: 0 0;
+    display: block
+}
+
+a[href="#w/w3c"],a[href="#w/w4c"],a[href="#w/w5c"],a[href="#w/w6c"],a[href="#w/w7c"],a[href="#w/w8c"],a[href="#w/w9c"],a[href="#w/w10c"],a[href="#w/w11c"],a[href="#w/w12c"],a[href="#w/w13c"],a[href="#w/w14c"],a[href="#w/w15c"],a[href="#w/w16c"],a[href="#w/w17c"] {
+    width: 300px;
+    background-position: -300px 0;
+    display: block
+}
+
+a[href="#w/w17b"] {
+    height: 40px
+}
+
+a[href="#w/w17c"] {
+    height: 40px
+}
+
+a[href="#w/champs"] {
+    background: url("//b.thumbs.redditmedia.com/0c3U0EQUcpoB86bkU5N12bfvCT874HmEquZGiw4VjWs.png");
+    display: block;
+    height: 374px;
+    width: 300px
+}
+
+a[href="#w/curweek"] {
+    background: url("//b.thumbs.redditmedia.com/TZFc90c4NhO1PkvRdYMYilxm_ZUX87iew7Q67nJBf9M.png");
+    display: block
+}
+
+a[href="#w/fbsr"] {
+    background: 0 0;
+    height: 594px
+}
+
+a[href="#w/accs"] {
+    background: 0 -594px;
+    height: 385px
+}
+
+a[href="#w/b12s"] {
+    background: 0 -979px;
+    height: 275px
+}
+
+a[href="#w/b10s"] {
+    background: 0 -1254px;
+    height: 385px
+}
+
+a[href="#w/p12s"] {
+    background: 0 -1639px;
+    height: 341px
+}
+
+a[href="#w/secs"] {
+    background: 0 -1980px;
+    height: 385px
+}
+
+a[href="#w/i1s"] {
+    background: 0 -2365px;
+    height: 143px
+}
+
+a[href="#w/aacs"] {
+    background: 0 -2508px;
+    height: 297px
+}
+
+a[href="#w/cusas"] {
+    background: 0 -2805px;
+    height: 363px
+}
+
+a[href="#w/macs"] {
+    background: 0 -3168px;
+    height: 363px
+}
+
+a[href="#w/mwcs"] {
+    background: 0 -3531px;
+    height: 341px
+}
+
+a[href="#w/sbs"] {
+    background: 0 -3872px;
+    height: 297px
+}
+
+a[href="#w/fbsr"],a[href="#w/accs"],a[href="#w/b12s"],a[href="#w/b10s"],a[href="#w/p12s"],a[href="#w/secs"],a[href="#w/aacs"],a[href="#w/cusas"],a[href="#w/i1s"],a[href="#w/macs"],a[href="#w/mwcs"],a[href="#w/sbs"] {
+    background-image: url("//b.thumbs.redditmedia.com/UCcJNjxv6gbiGCh8nIVNwcP_eLLCy2JJzobfuGsopzw.png");
+    display: block;
+    width: 300px
+}
+
+a[href="#w/fcsr"] {
+    background: 0 0;
+    height: 594px
+}
+
+a[href="#w/bskys"] {
+    background: 0 -594px;
+    height: 341px
+}
+
+a[href="#w/bsouths"] {
+    background: 0 -935px;
+    height: 187px
+}
+
+a[href="#w/caas"] {
+    background: 0 -1122px;
+    height: 319px
+}
+
+a[href="#w/ivys"] {
+    background: 0 -1441px;
+    height: 231px
+}
+
+a[href="#w/meacs"] {
+    background: 0 -1672px;
+    height: 297px
+}
+
+a[href="#w/mvcs"] {
+    background: 0 -1969px;
+    height: 275px
+}
+
+a[href="#w/necs"] {
+    background: 0 -2244px;
+    height: 209px
+}
+
+a[href="#w/ovcs"] {
+    background: 0 -2453px;
+    height: 253px
+}
+
+a[href="#w/pats"] {
+    background: 0 -2706px;
+    height: 209px
+}
+
+a[href="#w/pios"] {
+    background: 0 -2915px;
+    height: 297px
+}
+
+a[href="#w/srns"] {
+    background: 0 -3212px;
+    height: 231px
+}
+
+a[href="#w/slds"] {
+    background: 0 -3443px;
+    height: 297px
+}
+
+a[href="#w/swacs"] {
+    background: 0 -3740px;
+    height: 297px
+}
+
+a[href="#w/fcsr"],a[href="#w/bskys"],a[href="#w/bsouths"],a[href="#w/caas"],a[href="#w/ivys"],a[href="#w/meacs"],a[href="#w/mvcs"],a[href="#w/necs"],a[href="#w/ovcs"],a[href="#w/pats"],a[href="#w/pios"],a[href="#w/srns"],a[href="#w/slds"],a[href="#w/swacs"] {
+    background-image: url("//a.thumbs.redditmedia.com/gFCjumofvhDx6C5EhNxXYM5SsxP1rY9Rwl7FGgOlUi8.png");
+    display: block;
+    width: 300px
+}
+
+a[href="#w/neutralw"] {
+    background: 0 -20px
+}
+
+a[href="#w/csflw"] {
+    background: 0 -260px
+}
+
+a[href="#w/frontierw"] {
+    background: 0 -500px
+}
+
+a[href="#w/greatplainsw"] {
+    background: 0 -740px
+}
+
+a[href="#w/heartofamericaw"] {
+    background: 0 -980px
+}
+
+a[href="#w/kansascollegiatew"] {
+    background: 0 -1220px
+}
+
+a[href="#w/mid-southw"] {
+    background: 0 -1460px
+}
+
+a[href="#w/msfaw"] {
+    background: 0 -1700px
+}
+
+a[href="#w/naiaindependentsw"] {
+    background: 0 -1940px
+}
+
+a[href="#w/nsaaw"] {
+    background: 0 -2180px
+}
+
+a[href="#w/thesunw"] {
+    background: 0 -2420px
+}
+
+a[href="#w/atlanticuniversityfootballconferencew"] {
+    background: 0 -2660px
+}
+
+a[href="#w/canadawestfootballconferencew"] {
+    background: 0 -2900px
+}
+
+a[href="#w/ontariouniversityathleticsw"] {
+    background: 0 -3140px
+}
+
+a[href="#w/rseqw"] {
+    background: 0 -3380px
+}
+
+a[href="#w/kansaiw"] {
+    background: 0 -3620px
+}
+
+a[href="#w/kantow"] {
+    background: 0 -3860px
+}
+
+a[href="#w/tier2w"] {
+    background: 0 -4100px
+}
+
+a[href="#w/uscaaandotherw"] {
+    background: 0 -4340px
+}
+
+a[href="#w/neutralw"],a[href="#w/csflw"],a[href="#w/frontierw"],a[href="#w/greatplainsw"],a[href="#w/heartofamericaw"],a[href="#w/kansascollegiatew"],a[href="#w/mid-southw"],a[href="#w/msfaw"],a[href="#w/naiaindependentsw"],a[href="#w/nsaaw"],a[href="#w/thesunw"],a[href="#w/atlanticuniversityfootballconferencew"],a[href="#w/canadawestfootballconferencew"],a[href="#w/ontariouniversityathleticsw"],a[href="#w/rseqw"],a[href="#w/kansaiw"],a[href="#w/kantow"],a[href="#w/tier2w"],a[href="#w/uscaaandotherw"] {
+    background-image: url("//b.thumbs.redditmedia.com/WyuGh2LlGrwK8N3m39Bl5jwT2ssMr2LsjWx06-zFvbw.png");
+    width: 600px;
+    height: 192px;
+    display: block
+}
+
+a[href="#w/w1b"] {
+    height: 3330px
+}
+
+a[href="#w/w1c"] {
+    height: 3293px
+}
+
+a[href="#w/w2b"] {
+    height: 2923px
+}
+
+a[href="#w/w2c"] {
+    height: 3145px
+}
+
+a[href="#w/w3b"] {
+    height: 2331px
+}
+
+a[href="#w/w3c"] {
+    height: 2553px
+}
+
+a[href="#w/w4b"] {
+    height: 2294px
+}
+
+a[href="#w/w4c"] {
+    height: 2664px
+}
+
+a[href="#w/w5b"] {
+    height: 2183px
+}
+
+a[href="#w/w5c"] {
+    height: 2183px
+}
+
+a[href="#w/w6b"] {
+    height: 2294px
+}
+
+a[href="#w/w6c"] {
+    height: 2331px
+}
+
+a[href="#w/w7b"] {
+    height: 2183px
+}
+
+a[href="#w/w7c"] {
+    height: 2442px
+}
+
+a[href="#w/w8b"] {
+    height: 2146px
+}
+
+a[href="#w/w8c"] {
+    height: 2146px
+}
+
+a[href="#w/w9b"] {
+    height: 1998px
+}
+
+a[href="#w/w9c"] {
+    height: 2331px
+}
+
+a[href="#w/w10b"] {
+    height: 2183px
+}
+
+a[href="#w/w10c"] {
+    height: 2183px
+}
+
+a[href="#w/w11b"] {
+    height: 2035px
+}
+
+a[href="#w/w11c"] {
+    height: 2405px
+}
+
+a[href="#w/w12b"] {
+    height: 2035px
+}
+
+a[href="#w/w12c"] {
+    height: 2405px
+}
+
+a[href="#w/w13b"] {
+    height: 2442px
+}
+
+a[href="#w/w13c"] {
+    height: 2368px
+}
+
+a[href="#w/w14b"] {
+    height: 2442px
+}
+
+a[href="#w/w14c"] {
+    height: 518px
+}
+
+a[href="#w/w15b"] {
+    height: 666px
+}
+
+a[href="#w/w15c"] {
+    height: 518px
+}
+
+a[href="#w/w16b"] {
+    height: 148px
+}
+
+a[href="#w/w16c"] {
+    height: 259px
+}
+
+a[href="#w/w17b"] {
+    height: 1591px
+}
+
+a[href="#w/w17c"] {
+    height: 222px
+}
+
+a[href="#w/curweek"] {
+    height: 1591px
+}
+
+.titlebox h3 {
+    font-size: 14px!important;
+    text-shadow: -1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000
+}
